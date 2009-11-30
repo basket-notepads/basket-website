@@ -1,0 +1,2 @@
+rewriteEngine On
+rewriteRule ^(.+) /downloads/dw.php?file=$1 [L]

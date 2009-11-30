@@ -1,0 +1,313 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+         "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="Generator" content="Blocs notes BasKet 0.6.0Alpha2b http://basket.kde.org/">
+  <style type="text/css">
+   h1 { text-align: center; }
+   img { border: none; vertical-align: middle; }
+   .basket { background-color: #ffe6cc; border: solid #7f7366 1px; font: 11px "Bitstream Vera Sans"; color: #000000; padding: 1px; width: 100%; }
+   table.basket { border-collapse: collapse; }
+   .basket * { padding: 0; margin: 0; }
+   .basket table { width: 100%; border-spacing: 0; _border-collapse: collapse; }
+   .column { vertical-align: top; }
+   .columnHandle { width: 13px; background: transparent url('DCOP-ideas-basket.html_fichiers/images/column_handle.png') repeat-y; }
+   .group { margin: 0; padding: 0; border-collapse: collapse; width: 100% }
+   .groupHandle { margin: 0; width: 13px; text-align: center; }
+   .note { padding: 1px 2px; background: #ffe6cc url('DCOP-ideas-basket.html_fichiers/images/note_background_ffe6cc.png') repeat-x; border-top: solid #f2dbc2 1px; border-bottom: solid #f8e0c7 1px; width: 100%; }
+   .tags { width: 1px; white-space: nowrap; }
+   .tags img { padding-right: 2px; }
+   .sound a { display: block; width: 100%; text-decoration: none; color: #000000; }
+   .sound a:hover { color: #ff0000; }
+   .file a { display: block; width: 100%; text-decoration: none; color: #000000; }
+   .file a:hover { color: #ff0000; }
+   .local a { display: block; width: 100%; text-decoration: none; font-style: italic; color: #535378; }
+   .local a:hover { text-decoration: underline; color: #ff0000; }
+   .network a { display: block; width: 100%; text-decoration: underline; color: #535378; }
+   .network a:hover { text-decoration: none; color: #ff0000; }
+   .launcher a { display: block; width: 100%; text-decoration: none; font-weight: bold; color: #535378; }
+   .launcher a:hover { color: #ff0000; }
+   .unknown { margin: 1px 2px; border: 1px solid #7f7366; -moz-border-radius: 4px; }
+   .tag_title { font-weight: bold; }
+   .credits { margin: 3px 0 0 0; font-size: 80%; color: #7f7366; }
+  </style>
+  <title>DCOP</title>
+  <link rel="shortcut icon" type="image/png" href="DCOP-ideas-basket.html_fichiers/icones/ico16_run.png">
+  <!--[if gte IE 5.5000]>
+  <script>
+   window.attachEvent("onload", pngFix);
+   function pngFix() {
+    for (i = document.images.length - 1; i >= 0; i--) {
+     x = document.images[i];
+     if (x.src.substr(x.src.length - 4) == ".png") {
+      x.style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+x.src+"')"
+      x.src = "DCOP-ideas-basket.html_fichiers/images/spacer.gif";
+     }
+    }
+   }
+  </script>
+  <![endif]-->
+ </head>
+ <body>
+  <h1><img src="DCOP-ideas-basket.html_fichiers/icones/ico32_run.png" width="32" height="32" alt=""> DCOP</h1>
+  <table class="basket">
+   <tr>
+    <td class="column">
+     
+     <table>
+      <tr><td class="groupHandle"><img src="DCOP-ideas-basket.html_fichiers/images/fold_group.png" width="9" height="9"></td>
+       <td><table class="note tag_title"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Use Cases:</td></tr></table></td>
+      </tr>
+      <tr><td class="freeSpace" rowspan="20"></td>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Template of notes (eg. a template inserting a group with two notes: a title and a content)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Kicker applet to show icons of a number of selected baskets (to simulate multiple systray icon, and it's convenient because icons are always pointing to the same basket)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Desktop applet to show a basket on the desktop, like KNotes</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Konqueror/Firefox extension "Add selected text to current basket" (right-click menu or toolbar icon...)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Display important data on the desktop: display every notes with the tag "Important" or "Desktop" (configurable)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Export to HTML at every change (save a list of baskets to Export): a signal should be triggered, and the script will then ask the basket to be exported to eg. /var/www/mybasket</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Synchronize baskets with folder sync softwares (like <a href="http://www.cis.upenn.edu/~bcpierce/unison/">http://www.cis.upenn.edu/~bcpierce/unison/</a>): automatically send a notice to another computer when a basket changed, so it can refresh the view</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Service Menu in Konqueror, to add selected files, URLs...</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Kate plugin to have code clips in a sidebar</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Clipboard history come-back</td></tr></table></td>
+      </tr>
+      <tr>
+       <td>
+        <table>
+         <tr><td class="groupHandle"><img src="DCOP-ideas-basket.html_fichiers/images/fold_group.png" width="9" height="9"></td>
+          <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Tags Summary. Example:</td></tr></table></td>
+         </tr>
+         <tr><td class="freeSpace" rowspan="2"></td>
+          <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body> &nbsp;NoteA (Tag1 Tag2)<br>
+             &nbsp;NoteB (Tag1)<br>
+             &nbsp;NoteC (Tag2 Tag3)<br>
+             &nbsp;NoteD (Tag2)<br>
+            Search in every baskets and create a temporary basket with copy of notes:<br>
+             &nbsp;Tag1<br>
+             &nbsp; &nbsp;Tag2<br>
+             &nbsp; &nbsp; &nbsp;NoteA<br>
+             &nbsp; &nbsp;NoteB<br>
+             &nbsp;Tag2<br>
+             &nbsp; &nbsp;Tag1<br>
+             &nbsp; &nbsp; &nbsp;NoteA<br>
+             &nbsp; &nbsp;Tag3<br>
+             &nbsp; &nbsp; &nbsp;NoteC<br>
+             &nbsp; &nbsp;NoteD<br>
+             &nbsp;Tag3<br>
+             &nbsp; &nbsp;Tag2<br>
+             &nbsp; &nbsp; &nbsp;NoteC</td></tr></table></td>
+         </tr>
+
+        </table>
+</td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>~ Backup BasKet data and be able to restore them later</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Stats: number of baskets and notes (example script!)<br>
+         Can be useful to know how people are using BasKet Note Pads</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>When using a certain syntax when writting a text note, automagically link to and create another basket (Wiki like)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Different little scripts:<br>
+         - Split lines of a text note to several notes<br>
+         - Hitting a keyboard shortcut should split the edited text note in two<br>
+         - Transform first line to title<br>
+         - Convert note type</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Mix colors (for webdesigners wanting to create a color palette)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Insert a computation</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Keep notes alphabetically sorted</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Test script: Event surveyor: listen to every BasKet DCOP signal and print it to test if the signals are well emited</td></tr></table></td>
+      </tr>
+
+     </table>
+
+     <table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Scripts / Plugins(+featureToolbarIcon+keyboardShortcut) C++ or scripted / Applets (register to start/remove)</td></tr></table>
+     <table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>When running a script, tell automatically the minimum BasKet Note Pads version needed</td></tr></table>
+     <table class="note network"><tr><td><a href="http://www.kexi-project.org/wiki/wikiview/index.php?Scripting"><img src="DCOP-ideas-basket.html_fichiers/icones/ico16_favicons_www.kexi-project.org.png" width="16" height="16" alt=""> KROSS, the Kexi scripting bridge</a></td></tr></table>
+     <table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>KTrader to load plugins?</td></tr></table>
+     <table class="note network"><tr><td><a href="http://developer.kde.org/documentation/other/dcop.html"><img src="DCOP-ideas-basket.html_fichiers/icones/ico16_favicons_developer.kde.org.png" width="16" height="16" alt=""> DCOP: Desktop COmmunications Protocol</a></td></tr></table>
+     <table class="note network"><tr><td><a href="http://blogs.msdn.com/jensenh/archive/2006/03/23/558886.aspx"><img src="DCOP-ideas-basket.html_fichiers/icones/ico16_favicons_blogs.msdn.com.png" width="16" height="16" alt=""> Transparent Installing/Removing of 2007 Office System add-ins</a></td></tr></table>
+     <table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>When clicking "Send to BasKet Note Pads" in Konqueror or any other application, show a menu:<br>
+      - In the current basket<br>
+      - In the "Unfiled" basket<br>
+      - Configure where to drop data for that application<br>
+      - Configure where to drop data for every applications<br>
+      Provide a standard way for that, and a central place in the application to configure it...</td></tr></table>
+    </td>
+    <td class="columnHandle"></td>
+    <td class="column">
+     
+     <table>
+      <tr><td class="groupHandle"><img src="DCOP-ideas-basket.html_fichiers/images/fold_group.png" width="9" height="9"></td>
+       <td><table class="note tag_title"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Entities:</td></tr></table></td>
+      </tr>
+      <tr><td class="freeSpace" rowspan="7"></td>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Basket (id, name, icon, bgColor, textColor, layout, shortcut)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Note (id, type, content, fileName)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Filter"*Data*" (string, tag/state, everyBaskets...)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>HTMLExportationSettings</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>NoteSelection</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>BasketSelection</td></tr></table></td>
+      </tr>
+
+     </table>
+
+     
+     <table>
+      <tr><td class="groupHandle"><img src="DCOP-ideas-basket.html_fichiers/images/fold_group.png" width="9" height="9"></td>
+       <td><table class="note tag_title"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Functions:</td></tr></table></td>
+      </tr>
+      <tr><td class="freeSpace" rowspan="16"></td>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get version</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Create new note with content / new group</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Append a note to a note chunk / basket</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Feedback a chunk of notes ("Added those notes: ...")</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Unplug a note</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Activate / hide / toggle window</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get / set current basket</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get / set basket properties</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get notes selection (selected notes, by filter ***, from which basket(s))</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get / set filter(s)</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get HTMLExportationSettings</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Export to HTML</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Reload</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get basket list / tree</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get number of notes (with a filter or not)</td></tr></table></td>
+      </tr>
+
+     </table>
+
+     
+     <table>
+      <tr><td class="groupHandle"><img src="DCOP-ideas-basket.html_fichiers/images/fold_group.png" width="9" height="9"></td>
+       <td><table class="note tag_title"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Convenience Functions:</td></tr></table></td>
+      </tr>
+      <tr><td class="freeSpace" rowspan="3"></td>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Create and insert a note with content</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Get current basket name / icon / ...</td></tr></table></td>
+      </tr>
+
+     </table>
+
+     
+     <table>
+      <tr><td class="groupHandle"><img src="DCOP-ideas-basket.html_fichiers/images/fold_group.png" width="9" height="9"></td>
+       <td><table class="note tag_title"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Signals:</td></tr></table></td>
+      </tr>
+      <tr><td class="freeSpace" rowspan="5"></td>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Current basket changed / edited</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Filter changed</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Note changed / deleted / added in a basket</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Just edited this note</td></tr></table></td>
+      </tr>
+
+     </table>
+
+     
+     <table>
+      <tr><td class="groupHandle"><img src="DCOP-ideas-basket.html_fichiers/images/fold_group.png" width="9" height="9"></td>
+       <td><table class="note tag_title"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Interfaces:</td></tr></table></td>
+      </tr>
+      <tr><td class="freeSpace" rowspan="7"></td>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>DCOP</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>BASH DCOP Wrapper</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>C++ Wrapper</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Python Wrapper</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>Ruby Wrapper</td></tr></table></td>
+      </tr>
+      <tr>
+       <td><table class="note"><tr><td><html><head><meta name="qrichtext" content="1" /></head><body>JavaScript</td></tr></table></td>
+      </tr>
+
+     </table>
+
+    </td>
+   </tr>
+  </table>
+  <p class="credits">Fait avec <a href="http://basket.kde.org/">Blocs notes BasKet</a> 0.6.0Alpha2b, un outil KDE pour prendre des notes et garder une grande variété de données sous la main.</p>
+ </body>
+</html>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.38.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="210mm"
+   height="297mm"
+   sodipodi:docbase="/home/seb/Sites/homepage/basket/new_site/working_data"
+   sodipodi:docname="related_background.svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient826">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop827" />
+      <stop
+         style="stop-color:#aeffad;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop828" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient826"
+       id="radialGradient829" />
+    <radialGradient
+       xlink:href="#linearGradient826"
+       id="radialGradient832" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2279853"
+     inkscape:cx="401.27414"
+     inkscape:cy="540.56305"
+     inkscape:window-width="640"
+     inkscape:window-height="553"
+     inkscape:window-x="48"
+     inkscape:window-y="48" />
+  <rect
+     style="fill:#bff9be;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000pt;"
+     id="rect825"
+     width="335.32846"
+     height="100.84153"
+     x="221.39749"
+     y="267.94426" />
+  <path
+     style="fill:url(#radialGradient832);fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:0.75;"
+     d="M 148.69701,395.68119 C 315.14630,295.13047 183.91498,237.74020 278.69755,263.13712 C 369.23539,287.39666 413.49236,277.39271 453.58599,273.57433 C 493.67961,269.75596 462.98434,176.72932 521.68919,278.40911 C 567.63514,357.98983 355.23992,399.32401 355.23992,399.32401 L 148.69701,395.68119 z "
+     id="path831"
+     sodipodi:nodetypes="cccccc" />
+</svg>

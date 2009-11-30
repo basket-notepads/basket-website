@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>BasKet Note Pads News</title>
+    <link>http://basket.kde.org/</link>
+    <description>News of BasKet Note Pads, a KDE tool to take notes and keep a full range of data on hand.</description>
+    <language>en</language>
+    <item>
+      <title>BasKet 1.0.3.1 Released</title>
+      <pubDate>Mon, 30 Jun 2008 14:00:00 -0700</pubDate>
+      <link>http://basket.kde.org/changes1.0.php</link>
+      <description>
+&lt;p&gt;BasKet 1.0.3.1 has been released with some minor fixes, and Danish translations.&lt;/p&gt;
+
+      </description>
+    </item>
+    <item>
+      <title>BasKet 1.0.3 Released</title>
+      <pubDate>Sun, 15 Jun 2008 16:00:00 -0700</pubDate>
+      <link>http://basket.kde.org/changes1.0.php</link>
+      <description>
+&lt;p&gt;BasKet 1.0.3 has been released with some minor bug fixes.  It can be found in the usual places.&lt;/p&gt;
+      </description>
+    </item>
+    <item>
+      <title>Back on track to KDE 4</title>
+      <pubDate>Tue, 20 May 2008 20:30:00 -0700</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Development has started up again to try to get BasKet KDE 4.0 compliant! &lt;/p&gt;&lt;p&gt;The work that I (Kelvie) am doing is now hosted over at Github; the SVN repositories are still up, but are effectively obsoleted (they have all been imported into Git; distributed SCMs are the future!).  If anyone would like to join in the development, feel free to head over to &lt;a href="http://github.com/kelvie/basket/tree/master"&gt;http://github.com/kelvie/basket/tree/master&lt;/a&gt;, and fork the repository there.  Anyone can help; you don't need anyone's permission.  Also, make sure to subscribe yourself to the mailing list.  Direct any and all kinds of inquiries there, as well.&lt;/p&gt;
+      </description>
+    </item>
+    <item>
+      <title>Reintegrate BasKet Note Pads in Kontact</title>
+      <pubDate>Thu, 28 Feb 2008 22:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;A few months ago, Kontact changed its plugin version number and think the BasKet Note Pads plugin is too old and is now incompatible. It has a poor plugin mechanism, that will perhapse be fixed in KDE 4.&lt;/p&gt;&lt;p&gt;In the meantime, if you want to integrate BasKet Note Pads in Kontact again, you need to edit the following file as root: /usr/share/services/kontact/basket.desktop&lt;br&gt;And change the line &quot;X-KDE-KontactPluginVersion=4&quot; to become (number changed) &quot;X-KDE-KontactPluginVersion=5&quot;.&lt;br&gt;I'm told Kontact from KDE 3.5.9 changed again, so you need to use the number 6.&lt;br&gt;Restart Kontact, and you should see BasKet Note Pads.&lt;/p&gt;&lt;p&gt;In the future, if the problem reappears, change it to 7 and test, then 8...&lt;/p&gt;</description>
+    </item>
+
+    <item>
+      <title>BasKet Note Pads 2.0 is on the Road!</title>
+      <pubDate>Sun, 02 Dec 2007 16:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Here is a news for people worrying about the future of BasKet Note Pads. Two new developers have joined one or two months ago: perihelion and vyacheslav. They are very active and came up with a new internal design for version 2.0. This means the KDE 4 port will be an entirely new code, more robust and future-proof. it will be a lot more extensible, allowing full-control of contents by plugins. For the moment, only the very basis is present in SVN, nothing spectacular to show, no graphical interface, no screenshot to show you! This also means the KDE 4 port will take a lot longer. I typically see version 2.0 released late 2008. In the mid-time, don't worry, because every major Linux distributions will still come with KDE 3 libraries, so you will be able to run the 1.0 version in your KDE 4 environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Two Question FAQ</title>
+      <pubDate>Mon, 08 Oct 2007 19:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;First, people ask me where am I by now, did I still work on some KDE stuff?&lt;br&gt;The answer is yes, I'm working on Kirocker Music Display.&lt;br&gt;It consist of two pieces: a panel applet to constantly see what's you're playing and your rate songs.&lt;br&gt;And an independant full screen display to display same things when you're not arround your computer, or during parties.&lt;br&gt;I'm working on this because it takes a lot less precious time, and it's really fun. I'm already on the road to release version 4 of that thing, after only a few months.&lt;br&gt;&lt;a href="http://www.kde-apps.org/content/show.php/Kirocker+Music+Display?content=52869"&gt;http://www.kde-apps.org/content/show.php/Kirocker+Music+Display?content=52869&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Oh, and I also made a cool Kopete theme, named Glossyk 4:&lt;br&gt;&lt;a href="http://www.kde-look.org/content/show.php/Glossyk?content=40797"&gt;http://www.kde-look.org/content/show.php/Glossyk?content=40797&lt;/a&gt;&lt;/p&gt;&lt;p&gt;And the second question: how is BasKet Note Pads 2.0 doing?&lt;br&gt;One new feature was added to the KDE 3 branch, and the port to KDE 4 was started a few months ago.&lt;br&gt;But everything is now stalled.&lt;br&gt;It still needs developers to make it into KDE 4.&lt;br&gt;If really nobody do the port, in December, I will perhapse make the bare minimum to make it working on KDE 4, because I really need that tool.&lt;br&gt;Oh, and I'm afraid the new interface is completely canceled.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Things Done with BasKet Note Pads</title>
+      <pubDate>Sat, 21 Jul 2007 19:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;A lot of people are using BasKet Note Pads to implement the Getting Things Done methodology. This method need time to get used to, and it need a good structure to start quickly. If you are wondering what is it, how it could make you more productive, and how to use it with BasKet Note Pads, you can go to the &lt;a href="http://basket.kde.org/download.php"&gt;download page&lt;/a&gt; to get a basket archive implementing Getting Things Done. The archive and the page also contain brief instructions and a screenshot of the archive, to get started quickly with the method.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Save BasKet Note Pads, Save the World</title>
+      <pubDate>Sun, 27 May 2007 15:12:37 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Due to being very busy with real life, I'm afraid I have to give up on the development part of BasKet Note Pads. This really hurts me because it is my "baby", but I have no choice: I haven't programmed anything since version 1.0. &lt;strong&gt;BasKet Note Pads has no developer anymore&lt;/strong&gt;. Without new developers, I'm afraid the project will have to be stopped (and unavailable on KDE 4).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Searching Developers for BasKet Note Pads 2.0&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The &lt;a href="http://basket.openusability.org/"&gt;BasKet Usability Project&lt;/a&gt; made a lot of positive suggestions, which resulted in an ambitious roadmap for version 2.0 and more.&lt;br&gt;BasKet Note Pads 2.0 will rock even harder than 1.0: the interface will be refound do be easier to use more efficiently, and it will have tons of new features currently requested by a lot of people.&lt;br&gt;Thousand of people are already pleased with BasKet Note Pads every days.&lt;br&gt;Help make those people continue to be happy by developing and setting the next generation of note taking applications.&lt;br&gt;&lt;a href="http://basket.kde.org/version2.php"&gt;See the mockups, read the vision and roadmap...&lt;/a&gt;&lt;/p&gt;&lt;p&gt;If you are an interested developer and you know C++ and Qt (or have a strong willing to learn them), then you can send a mail to &lt;a href="mailto:basket-devel@lists.sourceforge.net"&gt;basket-devel@lists.sourceforge.net&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;PS: Why this news title? It's a joke you can understand if you are following the American TV show "Heroes" :-) Well... It should have been "Save BasKet Note Pads, Save the World of Note Taking Applications on Linux", but it's a little too long, isn't it? ;-)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pin Notes on your Desktop - New Version 1.1</title>
+      <pubDate>Thu, 24 May 2007 09:41:59 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;There is already a new version of DesktopBasket, the SuperKaramba theme I talked yesterday that lets you pin notes on the desktop. This new version adds French translation, preview of image notes and enhance the refresh frenquency. It is still available for download on the &lt;a href="http://basket.kde.org/download.php"&gt;download page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pin Notes on your Desktop</title>
+      <pubDate>Wed, 23 May 2007 18:46:56 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Romain Henriet is proposing us a very great extension: a SuperKaramaba theme that lets you display a few choosen notes on the desktop. Just assign the tag "Desktop" to a note and it will appear on your desktop. The theme is available on the &lt;a href="http://basket.kde.org/download.php"&gt;download page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Version 1.0.2 Released, With Some Optimizations</title>
+      <pubDate>Thu, 12 Apr 2007 14:50:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Here is 1.0.2, a maintenance release of BasKet Note Pads, that is focusing on optimizing speed and solve a few issues: instantaneous "Filter as you Type", faster loading time for the first "Filter all Baskets", faster text edition (no disk access at every key press), enhanced link detection in text notes, focus the basket when pressing Alt+Up and Alt+Down.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Version 1.0.1 Released, Bugs Exterminated</title>
+      <pubDate>Sun, 18 Mar 2007 18:56:39 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Here is 1.0.1, a maintenance release of BasKet Note Pads, that is focusing on solving the most hated bug: groupping notes was not working, as well as some other crashes and freezes, and to enhance translations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Participate to the BasKet Usability Project on Usage Scenarios</title>
+      <pubDate>Thu, 15 Mar 2007 14:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;The &lt;a href="http://basket.openusability.org/"&gt;BasKet Usability Project&lt;/a&gt; has developed a set of usage scenarios for BasKet Note Pads. Those scenarios will be used as a basis to think or re-think about features in BasKet Note Pads 2.0 based on what you are trying to achieve with the application.&lt;/p&gt;&lt;p&gt;The more precise the scenarios end up, the better the application will fit your needs and will be fluent to use. That's why we ask you to spend at least some minutes to read some scenarios and comment about them (are they credible, do you recognize yourself in them, is there something wrong, are they important, etc).&lt;/p&gt;&lt;p&gt;Scenarios are divided into two types: &lt;a href="http://basket.openusability.org/scenarios/problem-scenarios-overview"&gt;Problem Scenarios&lt;/a&gt; that point to things people want to do but are quite constraining to achieve right now in BasKet Note Pads 1.0, and &lt;a href="http://basket.openusability.org/scenarios/future-scenarios-overview"&gt;Future Scenarios&lt;/a&gt; that illustrates how BasKet Note Pads could be used for other cases in the future and what new features would be needed for that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comments Needed about the Personas of the BasKet Usability Project</title>
+      <pubDate>Mon, 19 Feb 2007 16:45:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;The &lt;a href="http://basket.openusability.org/"&gt;BasKet Usability Project&lt;/a&gt; has developed three "personas" which will serve as artificial target users for the further development of BasKet Note Pads. With personas, user-centered design will be possible by orienting future design decisions to the needs of the personas, whose descriptions are largely based on empirical data.&lt;/p&gt;&lt;p&gt;Based on data from surveys, three personas were developed and published for discussion:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://basket.openusability.org/scenarios/personas/martin-the-computer-professional"&gt;Martin, the computer professional&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://basket.openusability.org/scenarios/personas/sophie-the-marketing-consultant"&gt;Sophie, the marketing consultant&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://basket.openusability.org/scenarios/personas/albert-the-student"&gt;Albert, the student&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;To validate and prioritize these personas and to participate users in the process, users are invited to discuss and comment on the personas' descriptions! Please visit &lt;a href="http://basket.openusability.org/scenarios/personas"&gt;http://basket.openusability.org/scenarios/personas&lt;/a&gt; to start.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BasKet Note Pads 1.0</title>
+      <pubDate>Mon, 12 Feb 2007 00:30:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;We are living an historical moment. Today, I'm releasing the final 1.0 version of BasKet Note Pads. This asked three years and seven months of development, 40,000 lines of code, and a lot of toughts to arrive at this level of usefulness, functionnality, easiness and efficiency. Thanks very much to you, the users, who made this possible. Without you using it, making suggestions, reporting bugs, crashes, etc the first versions would have fitted my needs and I would have abandonned this project. After this small speech, I propose to rush &lt;a href="http://basket.kde.org/download.php"&gt;download it&lt;/a&gt; :-)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.0 RC, At Last!</title>
+      <pubDate>Sun, 04 Feb 2007 18:00:16 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Here we are! BasKet Note Pads is now frozen for packagers to work. BasKet Note Pads 1.0 RC is the final stage before the official release of 1.0, the very awaited release :-) It is completely translated and features welcome baskets as well as fixes for two very annoying bugs (including the free notes randomly resized on load) and fixes for up to 9 crashes! Rush to the &lt;a href="http://basket.kde.org/development.php"&gt;development page&lt;/a&gt; to download that version. I am sure you want it to death :-) And if you are a packager, do not hesitate to contact me!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.0Beta3 + Tricks &amp; Tips Basket Archive</title>
+      <pubDate>Sat, 13 Jan 2007 20:40:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;To be short, the next version will be the last KDE3-oriented release, and it will consolidate the already very good release 0.6.0. So it's time for 1.0. 0.6.1 is finally renumbered 1.0. This third beta includes a text importer, backup &amp; restore features, a way to change the location where the baskets are saved, and a few bug fixes. More detailed information, and download, on the &lt;a href="http://basket.kde.org/development.php"&gt;development page&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;You will also find a basket archive containing the "Welcome baskets" that will be created on first launch (not coded yet, but the archive is present for the translators to work). It contains a basket full of hidden tricks &amp; tips! You can download the archive on the development page to view it directly if you are already using one of the two first betas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0.6.1Beta2 + Take Part in the Usability Survey Today!</title>
+      <pubDate>Tue, 19 Dec 2006 17:05:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Are you a user of BasKet Note Pads?&lt;br&gt;Then help the BasKet Note Pads Usability Project to improve this application!&lt;/p&gt;&lt;p&gt;It is easy: just follow the link from &lt;a href="http://basket.openusability.org/"&gt;the project homepage&lt;/a&gt; and start the survey. It will take you less than 20 minutes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About the BasKet Note Pads Usability Project:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is the project set up by Frank Ploss, the student who is participating to the OpenUsability.org's "Season of Usability" and maintainer of the BasKet Usability Project. It is part of a research project for his diploma thesis at the Univesity of Hamburg, Germany.&lt;/p&gt;&lt;p&gt;The aim of the usability project is to improve the usability of the BasKet Note Pads tool. Usability, as Frank sees it, not only depends on the user interface, but also on the underlying assumptions that are made about the users and their context of use. So, knowing about the users, their contexts and claims are of vital importance for this project.&lt;/p&gt;&lt;p&gt;Also, the aim of this project is to also involve you, the users, into the development of BasKet Note Pads. With your specific knowledge about how you use BasKet Note Pads and with what intentions, you can make a difference in the further development of the application!&lt;/p&gt;&lt;p&gt;To find out about further possibilities to participate, please visit &lt;a href="http://basket.openusability.org/"&gt;http://basket.openusability.org&lt;/a&gt; and subscribe to the email newsletter or the RSS feed or email &lt;a href="mailto:frank.ploss(à)informatik.uni-hamburg.de"&gt;frank.ploss(à)informatik.uni-hamburg.de&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+
+    <item>
+      <title>Save as Basket Archive in 0.6.1 Beta 1</title>
+      <pubDate>Thu, 30 Nov 2006 01:05:57 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Now that the stable 0.6.0 basis is there, I'm proud to announce you that new awaited features are coming nicely.&lt;/p&gt;&lt;p&gt;First feature to be released: basket archives. Lot of people asked to be able to save baskets in single files. To be able to backup baskets, but most importantly, to send baskets to somebody else by email, USB pen... while that other person can be able to open the file in BasKet Note Pads, modify the baskets, and send back the changes to you.&lt;/p&gt;&lt;p&gt;Yes, this feature is fully accomplished. And it is available right now in 0.6.1 Beta 1. As usual, you can see screenshots and download that version on the &lt;a href="http://basket.kde.org/development.php"&gt;development page&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BasKet Note Pads 0.6.0 Takes Off</title>
+      <pubDate>Sun, 22 Oct 2006 17:32:29 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;After one year and a half of development, every lights are green, everything is ready for the departure. So here is the official release! BasKet Note Pads 0.6.0 is the first version I would recommand everyone to use. It is such a big step forward that it deserved an entire new website. That is done now. Go to &lt;a href="http://basket.kde.org/"&gt;http://basket.kde.org/&lt;/a&gt; to get more information, see the 24 new screenshots and download it for your distribution. In the following weeks, I will publish some articles, but also tricks and tips to fully use BasKet Note Pads at its full potential.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Packages + Mandriva Packager Wanted + OpenUsability Expertise</title>
+      <pubDate>Fri, 20 Oct 2006 22:28:37 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Well, I wanted to finish the new website to release the packages for 0.6.0. But I begin to get several duplicated packages. So, without wait, I added a list of packages &lt;a href="http://basket.kde.org/development.php"&gt;on the development page&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;BTW, I urgely still need a Mandriva package for BasKet Note Pads 0.6.0. &lt;a href="http://basket.kde.org/contact.php"&gt;Contact me&lt;/a&gt; if you've done such work.&lt;/p&gt;&lt;p&gt;And I also want to announce that BasKet Note Pads get selected for &lt;a href="http://www.openusability.org/studentprojects/"&gt;OpenUsability.org's "Season of Usability"&lt;/a&gt;! Work will certainly be focused on the KDE 4 interface changes we will have to do. That's the occasion to do them right. We'll also try to work on the BasKet Sharing Server interface for people to share baskets with others, or simply use baskets on several computers. Those are my ideas, I will keep you informed after having talked with the project mentor and the student who will work on that project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0.6.0 RC: Packagers Can Work!</title>
+      <pubDate>Sun, 15 Oct 2006 19:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;For the first time in History, we will release a new version ahead of schedule. 0.6.0 was planned for November 1st. You can &lt;a href="http://basket.kde.org/development.php"&gt;download the final version of BasKet Note Pads 0.6.0&lt;/a&gt; today.&lt;br&gt;During the last weeks, I browsed through all LikeBack comments and Crash reports. I'm proud to announce that after a year and a half of development, 0.6.0 can be declared stable.&lt;br&gt;I want to have as much packages as possible in order to release 0.6.0 officialy in one or two weeks. So if you are packagers, &lt;a href="http://basket.kde.org/contact.php"&gt;contact me&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LikeBack 0.4 Released ; Wiki Opened</title>
+      <pubDate>Wed, 27 Sep 2006 23:24:41 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Last week, I released &lt;a href="http://basket.kde.org/likeback.php"&gt;LikeBack 0.4&lt;/a&gt;. It's the flavour featured by BasKet Note Pads 0.6.0 Beta 2.2. It features a completely revamped GUI and API, as well as some AJAX on the server interface. If you're developing a KDE application, you can start add LikeBack to it.&lt;/p&gt;&lt;p&gt;And the second important news is that today I opened a &lt;a href="http://basket.kde.org/wiki/"&gt;developer wiki&lt;/a&gt;. This will enforce ideas discussed on the mailing list, by burning them on browsable pages. For the moment, the wiki is empty, but it will soon start to get lot of content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0.6.0 Beta 2.2 Released: Bugs Fixed, and Last Features Introduced</title>
+      <pubDate>Wed, 26 Sep 2006 23:24:41 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;I'm pleased to introduce you the last beta version for 0.6.0. With this last beta come last new little features (mostly thanks to the new developer Alex Gontmakher). Very annoying bugs of Beta 2.1 and Beta 2 are also solved. That's why I recommand to everyone to upgrade: &lt;a href="http://basket.kde.org/development.php"&gt;download and install BasKet Note Pads 0.6.0 Beta 2.2&lt;/a&gt;... It also features the new version of LikeBack, totaly revamped for better usability.&lt;/p&gt;&lt;p&gt;What's next? In the following month, we will fix last bugs and crashes, and will only do that. This is in order to release 0.6.0 final arround November, 1st!&lt;/p&gt;&lt;p&gt;If BasKet Note Pads is not translated yet into your language, it's time to translate it: visible messages will not change anymore before the final version (it's now string freeze period). Drop me an email and I will tell you how to translate it. Help is greatly welcome.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Converts Your Baskets to UTF-8</title>
+      <pubDate>Sun, 24 Sep 2006 12:30:40 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;You recently upgraded to a new distribution and discovered that accentued letters and non US letters and characters in your text and rich text notes were displayed strangly? This is because your old distribution encoded texts with your country legacy encoding and your new distribution now use the standard and universal UTF-8 Unicode encoding. All new distributions use it for one or two years now, anyway... To convert your notes to the new universal UTF-8 saving format,  I've done a script. You can &lt;a href="http://basket.kde.org/downloads/?file=convert-baskets-to-utf8.bash.tar.gz"&gt;download the convertion script&lt;/a&gt;. Quit BasKet Note Pads, edit the script and &lt;strong&gt;replace "latin1" with your own local encoding&lt;/strong&gt;, run the script in a console, and restart BasKet Note Pads. Your notes will be displayed correctly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bugs.Kde.Org BasKet Note Pads Account</title>
+      <pubDate>Sun, 27 Aug 2006 13:04:23 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;BasKet Note Pads quickly enters the next century. ;-) After a &lt;a href="http://basket.kde.org/svnaccess.php"&gt;SVN repository&lt;/a&gt; three months ago, and a &lt;a href="http://basket.kde.org/mailinglist.php"&gt;development mailing list&lt;/a&gt; yesterday, the application now have a &lt;a href="http://bugs.kde.org/"&gt;bugs.kde.org account&lt;/a&gt; where you can report bugs... Warning: 0.6.0 is still buggy and we are aware of that. Lot of bugs are on the To Do list, and lot of them has already been reported through the LikeBack icons. No need to report every single bug you encounter: we are certainly already aware of them and are busy fixing them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Development Mailing List Opened</title>
+      <pubDate>Sat, 26 Aug 2006 19:52:03 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;After so long time without, BasKet Note Pads finally gets a &lt;a href="http://basket.kde.org/mailinglist.php"&gt;development mailing list&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0.6.0 Beta 2.1 -- Make it Working :-)</title>
+      <pubDate>Tue, 15 Aug 2006 17:38:41 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;I have released &lt;a href="http://basket.kde.org/development.php"&gt;version 0.6.0 Beta 2.1&lt;/a&gt;. It does not have any new features (we're now in the period to fix bugs and crashes) but it fixes urgent crashes and bugs that Beta 2 was having due to the big changes Kontact integration was.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Released LikeBack - Quick Feedback from Beta-Testers</title>
+      <pubDate>Fri, 11 Aug 2006 19:03:24 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;You've seen the system with the icons "I Like / I do not Like / I found a Bug" in BasKet Note Pads 0.6.0 Betas?&lt;br&gt;You found out it's a good idea, a good way for users to quickly and easily post comments on applications they use?&lt;br&gt;You are a KDE application developer?&lt;br&gt;You want to integrate this system into your application?&lt;br&gt;&lt;br&gt;Then, I'm happy to announce that today I release LikeBack (the name of that system)!&lt;br&gt;You can get more information, screenshots of the user interface, screenshots of the server-side interface (how the developers view the comments you post), know the experience I've got from the first two iterations of the system (in Beta 1 and Beta 2), download it and integrate it...&lt;br&gt;It's there: &lt;a href="http://basket.kde.org/likeback.php"&gt;LikeBack - Quick Feedback from Beta-Testers&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0.6.0 Beta 2 -- Impressing!</title>
+      <pubDate>Sat, 29 Jul 2006 16:29:15 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;I have only one thing to say: look at &lt;a href="http://basket.kde.org/development.php"&gt;this 0.6.0 Beta 2 screenshot&lt;/a&gt;. Now, you will irresitibly want to &lt;a href="http://basket.kde.org/development.php"&gt;download Beta 2&lt;/a&gt;! If you're still using a 56k dial up modem, I will say more: you can use BasKet Note Pads right in Kontact (thanks to Petri, yes, him again!), you can customize tags and add your own ones, and you can change font size in rich text notes! Cancel the downloading of the screenshot and immediatly use your bandwidth to download this beta! It's the cutest bleeding edge version of BasKet Note Pads. After this one, bug fixes will come in mass to be able to release the final version.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0.6.0 Beta 1 is Out! [+ A Possible Data Loss]</title>
+      <pubDate>Wed, 28 Jun 2006 15:30:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;No less than 60 bugs were solved in this release!&lt;br&gt;Even if a lot of them were very little ones or hardly noticable, they all summed up and made the application not as seamlessly usable as I wanted.&lt;/p&gt;&lt;p&gt;An important fix concerns the situation where your disk space is low: basket data were silently saved corrupted. It's safer now because you are asked to remove files before being able to save again and continue to safely use the application.&lt;/p&gt;&lt;p&gt;While bug fixing was a main focus for this release, new features appeared. First up, every 0.5.0 features are back. Then, a small change but with a big impact: rich text notes replace plain text notes! You also can convert your TuxCards files to BasKet Note Pads.&lt;/p&gt;&lt;p&gt;Last but not least, thanks to the collaboration with Petri Damsten, you can have password-protected baskets, and a KnowIt importer... It's only a begin. He prepare you a surprise in a near future :-) Stay tuned in the SVN.&lt;/p&gt;&lt;p&gt;As always, get the &lt;a href="http://basket.kde.org/development.php"&gt;latest development version&lt;/a&gt; as soon as you can ;-)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[SVN Repository] &amp; [40+ Bugs Irroned Out] &amp; [Roadmap Toward 1.0] &amp; [How to Get Involved!]</title>
+      <pubDate>Tue, 06 Jun 2006 02:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Wahou. A lot to talk about in this news.&lt;/p&gt;&lt;p&gt;First things first, after a lot of people having asked me where is the CVS or SVN repository for BasKet Note Pads, I took my courrage and learned how to do so, and there is now a SVN repository for the application! Houray.&lt;/p&gt;&lt;p&gt;You can find instructions on how to get the latest development version and learn what have changed in the SVN at the &lt;a href="http://basket.kde.org/svnaccess.php"&gt;SVN Repository page&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;So, what's new in SVN? A lot of things! More than 40 bugs fixes, crash fixes, behaviour enhancement... are there. And I have a list of arround 20 new fixes to make to BasKet Note Pads in the next days.&lt;/p&gt;&lt;p&gt;To name an important news, passive popups are back (important for global keyboard-shortcut oriented people), and they are even smarter (they do not show when main window is active)!&lt;br&gt;Thanks to Petri Damsten, you now can import your KnowIt files...&lt;/p&gt;&lt;p&gt;Next news, I updated the &lt;a href="http://basket.kde.org/roadmap.php"&gt;roadmap toward version 1.0&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;On that roadmap, you will notice points where I help from people would be appreciated (like the DCOP interface: I need scripters and people knowing Python, Ruby...). There are also some features that can be done by other people. With the opening of the SVN repository, it's a good moment to ask for volunters.&lt;/p&gt;&lt;p&gt;I'm also officialy announcing the BasKet Note Pads Web/Server project that was created some months ago on SourceForge.net. Please see the &lt;a href="http://basket.kde.org/roadmap.php"&gt;roadmap page&lt;/a&gt; for more information. The mailing list is currently dead but I hope more people will join and make the project active again. This project is all about rewritting WeBasKet in a web service oriented way, making a new AJAX Web interface, and making it possible to synchronize the desktop application with that new server.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>European Portuguese Translation</title>
+      <pubDate>Sun, 28 May 2006 15:10:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;I completly forgotten to say that &lt;a href="http://basket.kde.org/development.php"&gt;Alplha 2b&lt;/a&gt; also contains a full translation for european portuguese.&lt;/p&gt;&lt;p&gt;On another side, for people who like eye-candy desktop, I released a &lt;a href="http://www.kde-look.org/content/show.php?content=39680"&gt;script to make the Kicker panel semi-translucent and shadowed&lt;/a&gt;. The result is very cool and modern, while staying sobre. It is available for six screen resolutions and is very easy to use. That's all for my personal publicity here :-)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I'm Back</title>
+      <pubDate>Wed, 24 May 2006 23:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;I have a good and a bad news.&lt;br&gt;The bad one is that, as I said in my previous post, I haven't done any BasKet-related task during the past two months.&lt;br&gt;The good one is that I'm back on board and I will continue development and I will reply to the mails.&lt;br&gt;Over those two months, as I used BasKet 0.6.0 Alphas, I noted a lot of small hitches in the behaviour of the application, lot of small bugs that make it less enjoyable/practicable to use. So, I will continue the development by first solving all those bugs, and perhapse release an Alpha 3 completly debugged before adding the last features during the beta cycle.&lt;br&gt;Let's go. You will have more news soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>=== ANOTHER DATA LOSS === -&gt; 0.6.0 Alpha 2b Upgrade Recommended</title>
+      <pubDate>Tue, 16 May 2006 02:30:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;I'm afraid there is another data loss situation in the development version of BasKet Note Pads. If you drag and drop a note into itself in a free form basket, the note was deleted, or the application freezed. The new 0.6.0 Alpha 2b version corrects that bug. &lt;a href="http://basket.kde.org/development.php"&gt;Check it out!&lt;/a&gt; The stable version 0.5.0 is not affected by this bug. &lt;br&gt;Well... This new version does not include any new feature. Why? Because for the last two months I've been very busy with school projects and real life. So I will be back to BasKet development in two weeks. I will also reply to all my mails at that time, so don't worry :-)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>=== DATA LOSS RISK === -&gt; 0.6.0 Alpha 2 Upgrade Strongly Recommended (Also Contains new Features)</title>
+      <pubDate>Wed, 22 Mar 2006 01:30:16 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;A few months ago, Kontact changed its plugin version number and think the BasKet Note Pads plugin is too old and is now incompatible. It has a poor plugin mechanism, that will perhapse be fixed in KDE 4.&lt;/p&gt;&lt;p&gt;In the meantime, if you want to integrate BasKet Note Pads in Kontact again, you need to edit the following file as root: /usr/share/services/kontact/basket.desktop&lt;br&gt;And change the line &quot;X-KDE-KontactPluginVersion=4&quot; to become (number changed) &quot;X-KDE-KontactPluginVersion=5&quot;.&lt;br&gt;I'm told Kontact from KDE 3.5.9 changed again, so you need to use the number 6.&lt;br&gt;Restart Kontact, and you should see BasKet Note Pads.&lt;/p&gt;&lt;p&gt;In the future, if the problem reappears, change it to 7 and test, then 8...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0.6.0 Alpha 1 D: Bugs Solving and Screen Capture</title>
+      <pubDate>Tue, 14 Feb 2006 16:40:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Not yet the promised Beta 1, but there was a bug in Beta 1 x that prevented some people to compile. I had to release a corrected version. Additionnaly, I made a very cool feature: you now can capture a zone of the screen to an image note. Very very, very, handy. With only this new feature it's worth upgrading! See the &lt;a href="http://basket.kde.org/development.php"&gt;development page&lt;/a&gt; for more explanation when it can be useful, and to know the other new features and bug fixes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exportation to HTML is back (0.6.0 Alpha 1 C)</title>
+      <pubDate>Mon, 30 Jan 2006 22:20:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;From tomorrow and during 3 days, BasKet Note Pads will be presented on &quot;Solutions Linux 2006&quot; at Paris. This year, I will not be present. But my LUG centers there presentation on member projects. And to be able to present basKet Note Pads 0.6.0 instead of 0.5.0, I implemented the last big feature that kept people using the old 0.5.0. Namely, the exporation of baskets to HTML pages. This is not complete (all groups are exported expanded, item tooltips are not present, and Internet Explorer gets some display bugs) but it is usable daily. So, if you haven't switched yet to 0.6.0, Alpha 1 C is for you. You can download it here: &lt;a href="http://basket.kde.org/development.php"&gt;the development page&lt;/a&gt; or see &lt;a href="http://basket.kde.org/developement/Research.html"&gt;an exemple of exported basket&lt;/a&gt;. This week, I will finish HTML export and begin keyboard navigation. 0.6.0 will start to rock after that (well, it already rock since the begin of this year, but it will rock for everybody with this addition and interesting new small features that will also enhance your productivity, but that's still secret :-) ).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BasKet Note Pads 0.6.0 Alpha 1 Bis: Less Bugs and Importing is Back</title>
+      <pubDate>Sun, 22 Jan 2006 22:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Three weeks after the release of the Alpha 1, here is a debugged version that correct compilation failures, bugs, crashes and add some help to enhance usability. Last but not least, import from other softwares are back. You can import again from KNotes, KJots and GNOME Sticky Notes (in the future, you will be able to import from other softwares as well, but that's not the priority: the next priority is to make export to HTML work again and also re-enable keyboard navigation). You can see what's new and download it here: &lt;a href="http://basket.kde.org/development.php"&gt;the development page&lt;/a&gt;, as usualy :-)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom Tags in 0.6.0 Alpha 1</title>
+      <pubDate>Fri, 06 Jan 2006 16:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;You tried and adopted BasKet Note Pads 0.6.0 Alpha 1? You love it... but you miss the ability to edit the tags and add your own tags? While waiting for a tag editor (in beta 2), here is &lt;a href="http://basket.kde.org/tags-in-0.6.0-alpha1.php"&gt;a little hack to create your own tags by hand&lt;/a&gt;, editing the XML storing file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BasKet Note Pads 0.6.0 Alpha 1: FEEDBACK NEEDED</title>
+      <pubDate>Sun, 01 Jan 2006 15:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Happy New Year!&lt;br&gt;I have a (late, but that's usual with me :-) ) Chrimstmas present for you.&lt;br&gt;You waited it for months and it's now there: &lt;strong&gt;Alpha 1 is finnaly downloadable and usable&lt;/strong&gt;!&lt;br&gt;Quickly go to &lt;a href="http://basket.kde.org/developement.php"&gt;The Development Page&lt;/a&gt; to see new screenshots, the changelog and the longly awaited Download link!&lt;br&gt;With this alpha version, I would want to get feedback by email on the new way to use this application:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Have you got problems when learning to use it the first time, and is it easy to use daily?&lt;/li&gt;&lt;li&gt;Have you encountered any glitches with the new behaviour?&lt;/li&gt;&lt;li&gt;Do you encountered bugs or crashes?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Have a nice moment playing with 0.6.0 Alpha 1 (and perhapse adopting it)...&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bad and Good News</title>
+      <pubDate>Thu, 15 Dec 2005 17:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;With which one should I start?&lt;br&gt;The bad or the good news?&lt;br&gt;&lt;br&gt;I'll start with the bad one: BasKet Note Pads 0.6.0 Alpha 1 is not there yet.&lt;br&gt;&lt;br&gt;And the good one: major parts of BasKet Note Pads are now re-wrote and there only still bugs to hunt and basic polishments to add before the alpha can reach out of the door.&lt;br&gt;In at most two weeks you will be able to play with Alpha 1.&lt;br&gt;&lt;br&gt;To compensate the late Alpha 1 release, here is &lt;a href="http://basket.kde.org/developement.php"&gt;a new screenshot of this longly-awaited version&lt;/a&gt;.&lt;br&gt;This page also explain some key new features of the next Alpha 1.&lt;br&gt;&lt;br&gt;Well, I have some more news for you, like news about WeBasKet (yes, it's still alive), the result of the usability survey and the roadmap I hope to shorten a little to release 0.6.0 final fast enough.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Survey: Who are BasKet Users? + 0.6.0 Screenshot!</title>
+      <pubDate>Tue, 27 Sep 2005 15:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;Like the last time, two news:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If you are using BasKet and want it to best fullfill your needs, please fill the &lt;a href=&quot;http://basket.kde.org/survey.php&quot;&gt;Survey: Who are BasKet Users?&lt;/a&gt;. The results will be used to understand your usage of BasKet, your needs about it, and enhance it to do your job better and easier. It's anonymous and only take a few minutes (18 questions).&lt;/li&gt;&lt;li&gt;You irresistibly want to see what will be BasKet Note Pads 0.6.0 Alpha 1? It isn't released yet, but I added a &lt;a href=&quot;http://basket.kde.org/developement.php&quot;&gt;screenshot of the version of BasKet Note Pads currently under development&lt;/a&gt;. That's amazing. I only hope that nobody will ring at my door and oblige me by force to finish that first Alpha very quickly ;-)&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Help About Links Openning + BasKet Bright Future</title>
+      <pubDate>Sun, 04 Sep 2005 19:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;p&gt;First up, a user of an environment other than KDE asked me if there is a way to configure which web browser is used to open links. It is &lt;strong&gt;already&lt;/strong&gt; doable, but not so obvious. I've written a &lt;a href="http://basket.kde.org/configure-links-openning.php"&gt;small tutorial about that&lt;/a&gt;. This help will be part of the &quot;Configure BasKet -&gt; Applications&quot; dialog in BasKet 0.6.0.&lt;/p&gt;&lt;p&gt;Then, talking about the exciting BasKet Note Pads 0.6.0 and the integration of the new Make-it-Cool engine:&lt;/p&gt;&lt;p&gt;Well, if you want to know, the integration has begun: BasKet Note Pads can load baskets and display all the item types correctly (with some enhancements). Item edition is almost done but everything else is VERY broken. Yes: the new architecture (the new engine and OOP-oriented item types management) requires a rewrite of almost half of the code. So no saving, no drag and drop... nothing else is back for the moment.&lt;/p&gt;&lt;p&gt;Hum... I said &quot;exciting&quot;?&lt;br&gt;And &quot;BasKet Note Pads&quot;?&lt;/p&gt;&lt;p&gt;Yes: since I was knew that the integration would be a BIG refactoring of the code, I first tought about what could be done to BasKet to make it absolutely rock. And here is the result (what I will implement in the following months):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Eye-candy and usability enhancements&lt;/strong&gt; of the new engine: your already know;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hierarchical list of baskets&lt;/strong&gt;: the old tabs of baskets will now be a tree of baskets. You will be able to group baskets by subjects or sections, make chapiters and sub-pages... You will be even more organized than before;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&quot;BasKet Note Pads&quot; is the new name of &quot;BasKet&quot;&lt;/strong&gt; so that new users know what it is about before launching it (see &lt;a href="http://blogs.qtdeveloper.net/archives/2005/08/10/on-naming-of-kde-applications/"&gt;this discution about better naming KDE applications&lt;/a&gt;);&lt;/li&gt;&lt;li&gt;This means that BasKet Note Pads 0.6.0 will be a &quot;return to the sources&quot;, to its original goals: taking notes and... managing those notes! For example: open the 0.5.0 &quot;New Basket Wizard&quot;. You see it? BasKet Note Pads 0.6.0 will just keep the &quot;Notes and Clips&quot; thing: &lt;strong&gt;folder mirroring, stacks and clipboard manager will go out&lt;/strong&gt;: bad concepts not fullfilling nor integrating well with the purpose of BasKet (DragStack is better, and Klipper should be enhanced). I will give you more information about that when delivering BasKet Note Pads 0.6.0 Alpha1 for feedbacks...&lt;/li&gt;&lt;li&gt;Basket Properties dialog will be simpler and more elegant, without tabs. The New Basket dialog (no more a wizard: creating a basket will be quick and easy) will propose to &lt;strong&gt;start with a template&lt;/strong&gt;! You will be able to &lt;strong&gt;create basket templates from any existing basket&lt;/strong&gt; (with the logo of your entreprise for meeting reports, etc...).&lt;/li&gt;&lt;li&gt;And why not &lt;strong&gt;share templates with KGetHotNewStuff&lt;/strong&gt;.&lt;/li&gt;&lt;li&gt;After printing first started in MiC3, you will be able to &lt;strong&gt;save baskets in files, send them by email&lt;/strong&gt; (clicking the attached file automatically open the basket).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;What a very long news for one time!&lt;br&gt;But now you know what's comming next in BasKet Note Pads.&lt;br&gt;It will hopefully make you happy and more productive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BasKet Make-it-Cool 3 Now Compile!</title>
+      <pubDate>Thu, 25 Aug 2005 19:20:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+I'm afraid &lt;a href=&quot;http://basket.kde.org/developement.php&quot;&gt;BasKet Make-it-Cool 3&lt;/a&gt; was not compilable! It's now fixed: please download the new archive and it will work.
+&lt;a href=&quot;http://basket.kde.org/webasket/&quot;&gt;WeBasKet&lt;/a&gt; accounts created when the service was unavailable are repared. Everything should be back and functionning.</description>
+    </item>
+    <item>
+      <title>WeBasKet is Back!</title>
+      <pubDate>Wed, 24 Aug 2005 23:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;a href=&quot;http://basket.kde.org/webasket/&quot;&gt;WeBasKet&lt;/a&gt; is now back and functionning.
+I would want to apologies for the interruption of this service.
+The server has been migrated to a new cluster, the sysadmin then went to vacation and was unable to solve the problems of this changement so I wasn't having access to FTP to make WeBasKet work again before now.
+
+And don't forget: &lt;a href=&quot;http://basket.kde.org/developement.php&quot;&gt;BasKet Make-it-Cool 3&lt;/a&gt; has been released yesterday.</description>
+    </item>
+    <item>
+      <title>Technology Preview 3: Free and column layouts</title>
+      <pubDate>Tue, 23 Aug 2005 15:00:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+Today, the last version of the Make-it-Cool serie (reworking of the engine for BasKet 0.6.0) has been released.
+It features freely positionnable items (free layout) and multi-column baskets. The look and feel and the performances are now really good and a begin of print feature is even there.
+You can &lt;a href=&quot;http://basket.kde.org/developement.php&quot;&gt;test it now&lt;/a&gt;.
+That's the last technology preview: the new engine is now there and the next step is to integrate it into BasKet.
+The next step is BasKet 0.6.0 Alpha 1! And it will be usable :-)</description>
+    </item>
+    <item>
+      <title>Technology Preview 2: tags and background images</title>
+      <pubDate>Sat, 18 Jun 2005 19:30:57 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+Here is a second preview of the next BasKet 0.6.0 version.
+It features tags for items, background image for baskets, groups can be expanded/collapsed, startup in accelerated by load-on-demand and handles now have new beautiful graphics...
+You can &lt;a href=&quot;http://basket.kde.org/developement.php&quot;&gt;test it&lt;/a&gt;, especially the tags feature, and report your impressions or suggestions to me...
+What's next? I see you in a few weeks for freely positionnable items, another awaited feature...</description>
+    </item>
+    <item>
+      <title>BasKet 0.6.0: Technology Preview</title>
+      <pubDate>Mon, 30 May 2005 14:15:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+Since a few months I started to work on the next version of BasKet.
+And because it need a very new engine to be able to group items, I coded it.
+It's impressive: it's very fast and flicker-free, even with very big baskets...
+I added animations when inserting/removing items: hello, eye candy effects!
+It is featured with a totally new User Interaction Model: everything can be done with one single click and it obsolete Click Actions while being more usable.
+Graphics are also nicer than the old two background colors.
+And it support group of items, group of group of items (not yet expandable/collapsable but that will be done soon)...
+You can &lt;a href=&quot;http://basket.kde.org/developement.php&quot;&gt;watch the videos or download this preview&lt;/a&gt; (it's an independant program that will not mess up your BasKet data: it will not use them)</description>
+    </item>
+    <item>
+      <title>WeBasKet is out: use baskets in a browser</title>
+      <pubDate>Wed, 06 Apr 2005 18:20:00 +0200</pubDate>
+      <link>http://basket.kde.org/webasket/</link>
+      <description>
+The surprise was... an internet based BasKet!
+Yes, you now can use baskets on any plateforms. Only a WEB browser is needed: no installation...
+This tool also allow to share baskets with several people.
+
+Visit the &lt;a href=&quot;http://basket.kde.org/webasket/&quot;&gt;WeBasKet homepage&lt;/a&gt;, use the &lt;a href=&quot;http://basket.kde.org/webasket/demo.php&quot;&gt;demo account&lt;/a&gt; or &lt;a href=&quot;http://basket.kde.org/w/new_user.php&quot;&gt;register now&lt;/a&gt; (registration is free and only takes a few seconds).
+
+Note: BasKet cannot yet be synchronized with WeBasKet, but this will be possible in the future.
+Also note that this is a test: I'm not sure the free server on which I'm hosted will allow me to take a lot of bandwidth.</description>
+    </item>
+    <item>
+      <title>Packages + What's Next + Site Updates</title>
+      <pubDate>Sun, 03 Apr 2005 16:30:00 +0200</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://basket.kde.org/download.php&quot;&gt;Packages of BasKet 0.5.0 for most distributions&lt;/a&gt; are here (Mandrake and Fedora are missing).&lt;/li&gt;&lt;li&gt;I will soon release a 0.5.0b version with compilation issues fixes, I think I can fix them all, now.&lt;/li&gt;&lt;li&gt;The "surprise" will be out in a few days, by now... That's very close...&lt;/li&gt;&lt;li&gt;I also updated the website to show the latest news on the home page, added a new page that show &lt;a href=&quot;http://basket.kde.org/news.php&quot;&gt;all news&lt;/a&gt;, and a &lt;a href=&quot;http://basket.kde.org/translate.php&quot;&gt;Translation How-To&lt;/a&gt; for people wanting to translate BasKet in theire native language&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>0.5.0 Final is out in the nature</title>
+      <pubDate>Wed, 09 Mar 2005 21:41:46 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+BasKet 0.5.0 finaly reached final stage.
+Since the last RC1, BasKet now should compile for everybody, should crash less and have a lot less bugs.
+GNOME compatibility and clipboard manager have been enhanced as well, and new translations are here: french, german, nederland, polish and spanish (naturaly, if you want to translate BasKet in another language, please mail me).
+
+I'm now asking packagers to package BasKet (please don't mail me to package it for the moment).
+
+Why have I be so long? Because I coded on a new project. I will deliver to you this &quot;surprise&quot; in a few weeks (clues to know what it is are on this site :-) )</description>
+    </item>
+    <item>
+      <title>New MPEG Demo Video!</title>
+      <pubDate>Thu, 03 Feb 2005 14:10:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+I recently intended to &lt;a href="http://www.solutionslinux.fr/"&gt;Solutions Linux&lt;/a&gt; exposition (at Paris) to present &lt;a href="http://www.linux62.org/"&gt;Linux62&lt;/a&gt; (the LUG I'm in) and we presented projects of some adherents.&lt;br&gt;
+I've been asked to do a video demo of BasKet, so I put it here on the website.&lt;br&gt;
+You can &lt;a href="http://basket.kde.org/downloads/?file=demo-basket-fr.mpeg"&gt;view the video&lt;/a&gt; or show it to reluctant friends. :-)</description>
+    </item>
+    <item>
+      <title>BasKet 0.5.0-RC1 published!</title>
+      <pubDate>Thu, 27 Jan 2005 18:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+OK, the website is finished and is fully-compatible with every browsers, including IE.
+So, I released BasKet 0.5.0-RC1.
+I haven't received any translation file, so I'm calling for translators.</description>
+    </item>
+    <item>
+      <title>BasKet 0.5.0 soon to be out!</title>
+      <pubDate>Thu, 20 Jan 2005 18:00:00 +0100</pubDate>
+      <link>http://basket.kde.org/</link>
+      <description>
+BasKet 0.5.0 is in development since almost one year, even if I have released a lot of alpha and beta versions.
+It is almost finished and I'm making the new WEB site of BasKet to mark that new major version!
+Stay tuned, it will be out in a few days (translators are currently working on it, while I'm fixing last glitches).</description>
+    </item>
+  </channel>
+</rss>

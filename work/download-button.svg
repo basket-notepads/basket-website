@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   width="270"
+   height="85"
+   version="1.0"
+   sodipodi:docbase="H:\seb\public_html\basket6"
+   sodipodi:docname="download-button.svg"
+   inkscape:export-filename="H:\seb\public_html\basket6\data\download-button.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <linearGradient
+       id="linearGradient2234">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.76862746;"
+         offset="0"
+         id="stop2236" />
+      <stop
+         id="stop2238"
+         offset="0.375"
+         style="stop-color:#ffffff;stop-opacity:0.47058824;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.0627451;"
+         offset="1"
+         id="stop2240" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2226">
+      <stop
+         id="stop2228"
+         offset="0"
+         style="stop-color:#38ac30;stop-opacity:1;" />
+      <stop
+         style="stop-color:#339c2c;stop-opacity:1;"
+         offset="0.5"
+         id="stop2230" />
+      <stop
+         style="stop-color:#3ec438;stop-opacity:1;"
+         offset="1"
+         id="stop2232" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13622">
+      <stop
+         id="stop13624"
+         offset="0"
+         style="stop-color:#41c438;stop-opacity:0;" />
+      <stop
+         style="stop-color:#349b2d;stop-opacity:0;"
+         offset="0.85000002"
+         id="stop13626" />
+      <stop
+         style="stop-color:#277722;stop-opacity:1;"
+         offset="1"
+         id="stop13628" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5058">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.50196081;"
+         offset="0"
+         id="stop5060" />
+      <stop
+         id="stop5062"
+         offset="0.5"
+         style="stop-color:#ffffff;stop-opacity:0.50196081;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.25098041;"
+         offset="0.55000001"
+         id="stop5066" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.25098041;"
+         offset="1"
+         id="stop5064" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8549">
+      <stop
+         style="stop-color:#41c438;stop-opacity:1;"
+         offset="0"
+         id="stop8555" />
+      <stop
+         id="stop12059"
+         offset="0.85000002"
+         style="stop-color:#349b2d;stop-opacity:1;" />
+      <stop
+         id="stop8557"
+         offset="1"
+         style="stop-color:#277722;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8549"
+       id="linearGradient10309"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.501761,0,0,0.550846,-20.68759,-84.7727)"
+       x1="307.82059"
+       y1="155.27299"
+       x2="307.82059"
+       y2="298.15021" />
+    <linearGradient
+       id="linearGradient2382">
+      <stop
+         id="stop2384"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.76862746;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.47058824;"
+         offset="0.30000001"
+         id="stop2386" />
+      <stop
+         id="stop2388"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.0627451;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2382"
+       id="linearGradient12063"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.511266,0,0,0.154086,-21.91404,-150.1754)"
+       x1="230.73181"
+       y1="354.53912"
+       x2="230.73181"
+       y2="409.69409" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8549"
+       id="linearGradient8610"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.450603,0,0,0.550846,8.439416,-181.2502)"
+       x1="307.82059"
+       y1="155.27299"
+       x2="307.82059"
+       y2="298.15021" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13622"
+       id="linearGradient13630"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.450603,0,0,0.550846,8.439416,-181.2502)"
+       x1="350.71658"
+       y1="217.41226"
+       x2="568.38507"
+       y2="217.41226" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2226"
+       id="linearGradient1339"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.450603,0,0,0.550846,8.42164,-84.75741)"
+       x1="307.82059"
+       y1="155.27299"
+       x2="307.82059"
+       y2="298.15021" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13622"
+       id="linearGradient1341"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.450603,0,0,0.550846,32.884,145.7009)"
+       x1="350.71658"
+       y1="217.41226"
+       x2="568.38507"
+       y2="217.41226" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2234"
+       id="linearGradient1343"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.511266,0,0,0.154086,-21.93182,-53.68266)"
+       x1="230.73181"
+       y1="354.53912"
+       x2="230.73181"
+       y2="608.16052" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="542"
+     inkscape:window-width="837"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:grid-points="true"
+     inkscape:zoom="1.4215638"
+     inkscape:cx="163.12496"
+     inkscape:cy="52.34007"
+     inkscape:window-x="74"
+     inkscape:window-y="79"
+     inkscape:current-layer="svg2" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5086"
+     width="270"
+     height="85"
+     x="0"
+     y="-96.477463" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient8610);fill-opacity:1;fill-rule:evenodd;stroke:#349b2d;stroke-width:0.91672504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect10305"
+     width="237.0975"
+     height="79.048889"
+     x="27.457922"
+     y="-96"
+     rx="7"
+     ry="7.000001"
+     inkscape:export-filename="/home/seb/bar2.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient13630);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.91672504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect12747"
+     width="237.0975"
+     height="79.048889"
+     x="27.457922"
+     y="-96"
+     rx="7"
+     ry="7.000001"
+     inkscape:export-filename="/home/seb/bar2.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="opacity:1;fill:url(#linearGradient12063);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 34,-95.477465 C 29,-95.477465 27.959116,-89.896353 27.981409,-89.888965 L 28,-86.477465 L 264,-86.477465 L 264.01778,-89.888965 C 264.01778,-89.888965 263,-95.477465 258,-95.477465 C 258,-95.477465 34.041403,-95.477936 34,-95.477465 z "
+     id="path12061"
+     sodipodi:nodetypes="ccccccc"
+     inkscape:export-filename="/home/seb/bar2.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <image
+     id="image8605"
+     height="64"
+     width="64"
+     sodipodi:absref="H:\seb\public_html\basket6\ark.png"
+     xlink:href="ark.png"
+     x="-5"
+     y="-88.477463" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1329"
+     width="270"
+     height="85"
+     x="280"
+     y="0.015285492"
+     inkscape:export-filename="H:\seb\public_html\basket6\data\download-button.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient1339);fill-opacity:1;fill-rule:evenodd;stroke:#349b2d;stroke-width:0.91672504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1331"
+     width="237.0975"
+     height="79.048889"
+     x="27.44014"
+     y="0.49274832"
+     rx="7"
+     ry="7.000001"
+     inkscape:export-filename="H:\seb\public_html\basket6\data\download-button.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="opacity:1;fill:url(#linearGradient1343);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 33.982218,1.0152882 C 28.982218,1.0152882 27.941334,6.5963982 27.963627,6.6037882 L 27.96328,40.026359 L 263.96328,40.026359 L 264,6.6037882 C 264,6.6037882 262.98222,1.0152882 257.98222,1.0152882 C 257.98222,1.0152882 34.023621,1.0148182 33.982218,1.0152882 z "
+     id="path1335"
+     sodipodi:nodetypes="ccccccc"
+     inkscape:export-filename="H:\seb\public_html\basket6\data\download-button.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <image
+     id="image1337"
+     height="64"
+     width="64"
+     sodipodi:absref="H:\seb\public_html\basket6\ark.png"
+     xlink:href="ark.png"
+     x="-87"
+     y="8.0152855"
+     inkscape:export-filename="H:\seb\public_html\basket6\data\download-button.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+</svg>
