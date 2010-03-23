@@ -38,7 +38,7 @@
      <li>Ported to Qt 4 and KDE 4</li>
      <li>Source code now resides on Gitorious</li>
     </ul>
-    <p><a href="changes-1.0.php" class="buttonBar" style="width: 16em;"><span>Changes in the 1.0.x series&nbsp;►</span></a></p>
+    <p><a href="changes-1.0.php" class="buttonBar" style="width: 16em;"><span>Changes in 1.0.x&nbsp;►</span></a></p>
    </div>
    <div class="column1">
     <h3>What is It?</h3>
