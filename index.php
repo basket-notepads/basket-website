@@ -33,55 +33,12 @@
    <div class="hr">&nbsp;</div>
 
    <div class="column2">
-    <h3>What's New in 1.0.2?</h3>
+    <h3>What's New in 1.80</h3>
     <ul>
-     <li>Reduced loading time for first "Filter all Baskets"</li>
-     <li>Instantaneous "Filter as you Type"</li>
-     <li>Faster Text Edition</li>
-     <li>Enhanced Link Detection in Text Notes</li>
-     <li>Focus Baskets when Using Alt+Up and Alt+Down</li>
-     <li>Reviewed Japanese Translation</li>
+     <li>Ported to Qt 4 and KDE 4</li>
+     <li>Source code now resides on Gitorious</li>
     </ul>
-    <h3>What's New in 1.0.1?</h3>
-    <ul>
-     <li>Group is now Working!</li>
-     <li>Faster Editing of Long Text Notes</li>
-     <li>Avoid Crashes or Freezes on Exit</li>
-     <li>Turkish &amp; Simple Chiness Translations</li>
-     <li>Enhanced French Translation</li>
-    </ul>
-    <h3>What's New in 1.0?</h3>
-    <ul>
-     <li>Export/Import Basket Archives</li>
-     <li>Export Basket Sub-Tree to HTML</li>
-     <li>Import from Text Files</li>
-     <li>Welcome Baskets, with Tips &amp; Tricks</li>
-     <li>Backup &amp; Restore</li>
-     <li>Change Save Location</li>
-     <li>More Natural Modification of Big Notes</li>
-     <li>A new Background Image</li>
-     <li>Less Bugs, Less Crashes</li>
-    </ul>
-    <p><a href="changes-1.0.php" class="buttonBar" style="width: 16em;"><span>Full List of Changes &nbsp;►</span></a></p>
-<!--
-    <h3>What's New in 0.6.0?</h3>
-    <ul>
-     <li>An Improved Experience</li>
-     <li>A Faster Application</li>
-     <li>Basket Hierarchy</li>
-     <li>Kontact Integration</li>
-     <li>Filter all Baskets at Once</li>
-     <li>Password-Protected Baskets</li>
-     <li>Tags Revolutioning your Organisation</li>
-     <li>Multi-Column Baskets</li>
-     <li>Freely Positionnable Notes</li>
-     <li>Rich Text Formating</li>
-     <li>Collapsable Groups of Notes</li>
-     <li>Manipulate Several Notes at Once</li>
-     <li>Screen Zone Grabbing</li>
-    </ul>
-    <p><a href="changes-0.6.0.php" class="buttonBar" style="width: 16em;"><span>Full List of Changes &nbsp;►</span></a></p>
--->
+    <p><a href="changes-1.0.php" class="buttonBar" style="width: 16em;"><span>Changes in the 1.0.x series&nbsp;►</span></a></p>
    </div>
    <div class="column1">
     <h3>What is It?</h3>
