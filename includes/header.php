@@ -3,7 +3,7 @@
 
   /// Global variables:
   $email="kelvie@ieee.org";
-  $current="1.80"
+  $current="1.80";
 //  $devel="2.0Alpha1"; // To be commented when no development version is available
 
   /// Find page filename:
