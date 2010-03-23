@@ -22,7 +22,7 @@
    <div id="downloadButton" style="margin-right: 511px;"> <!-- The margin is the width of the image + margin of 20 pixels -->
     <a href="downloads/?file=basket-<? echo $current ?>" id="theButton"><strong>Download Now<br></strong>
     Version <em><?php echo $current; ?></em><br>
-    Sources for KDE (5.3 Mb)</a>
+    Sources for KDE (4.0 Mb)</a>
     <div><a href="download.php" class="buttonBar" style="width: 28em;"><span>Download Distribution-Specific Packages &nbsp;<!--▼-->►</span></a></div>
 <?php
   if (isset($devel))
