@@ -2,7 +2,6 @@
   // List all downloadable files with an alias:
   $filesMap = array
   (
-  //"basket-0.5.0-debian"    => "http://packages.debian.org/unstable/kde/basket",
 
     "demo-basket-fr.mpeg"    => "../demo/demo-basket-fr.mpeg",
 
@@ -32,20 +31,9 @@
     "basket-1.0.2"                => "basket-1.0.2.tar.gz",
     "basket-1.0.3"                => "basket-1.0.3.tar.gz",
     "basket-1.0.3.1"              => "basket-1.0.3.1.tar.gz",
+    "basket-1.80"                 => "basket-1.80.tar.bz2",
 
     "desktop-basket"              => "http://www.kde-look.org/content/download.php?content=59052&id=1",
-
-    /*"basket-1.0"                => "basket-1.0.tar.gz",*/
-//**/"basket-1.0-suse"           => "http://moking.free.fr/raoul/SuSE10.2/basket-1.0rc3-1.lotus.i586.rpm",
-//    "basket-1.0-mandriva"       => "http://people.mandriva.com/~lmontel/basket-2007/basket-0.6.0-1mdv2007.0.i586.rpm",
-//    "basket-1.0-fedora6-pc"     => "ftp://download.fedora.redhat.com/pub/fedora/linux/extras/6/i386/basket-0.6.0-1.fc6.i386.rpm",
-//    "basket-1.0-fedora6-pc64"   => "ftp://download.fedora.redhat.com/pub/fedora/linux/extras/6/x86_64/basket-0.6.0-1.fc6.x86_64.rpm",
-//    "basket-1.0-fedora6-ppc"    => "ftp://download.fedora.redhat.com/pub/fedora/linux/extras/6/ppc/basket-0.6.0-1.fc6.ppc.rpm",
-//    "basket-1.0-kubuntu"        => "www.alborz.uk.com/basket_1.0-1_i386.deb",
-    /*"basket-1.0-freebsd"        => "http://www.freshports.org/deskutils/basket/",*/
-    /*"basket-1.0-debian"         => "http://www.ruinelli.ch/count.php?file=archiv/Debian-Pakete/basket_1.0-1_i386.deb",*/
-//    "basket-1.0-slackware"      => "http://www.linuxpackages.net/pkg_details.php?id=10129",
-//    "basket-1.0-gentoo"         => "http://packages.gentoo.org/ebuilds/?basket-0.6.0",
 
     "likeback-0.4.tar.gz"    => "likeback-0.4.tar.gz",
     "convert-baskets-to-utf8.bash.tar.gz" => "convert-baskets-to-utf8.bash.tar.gz"
