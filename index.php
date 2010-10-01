@@ -21,8 +21,8 @@
 
    <div id="downloadButton" style="margin-right: 511px;"> <!-- The margin is the width of the image + margin of 20 pixels -->
     <a href="downloads/?file=basket-<? echo $current ?>" id="theButton"><strong>Download Now<br></strong>
-    Version <em><?php echo $current; ?></em><br>
-    Sources for KDE (4.0 Mb)</a>
+    Version <em>2.0 Beta 2 (<?php echo $current; ?>)</em><br>
+    Sources for KDE (4.0 MB)</a>
     <div><a href="download.php" class="buttonBar" style="width: 28em;"><span>Download Distribution-Specific Packages &nbsp;<!--▼-->►</span></a></div>
 <?php
   if (isset($devel))
@@ -33,7 +33,12 @@
    <div class="hr">&nbsp;</div>
 
    <div class="column2">
-    <h3>What's New in 1.80</h3>
+    <h3>What's New in Basket 2.0 Beta 2</h3>
+    <ul>
+     <li>Bug fixes from 2.0 Beta 1</li>
+     <li>Added the ability to create cross references between baskets</li>
+    </ul>
+    <h3>What's New in Basket 2.0 Beta 1</h3>
     <ul>
      <li>Ported to Qt 4 and KDE 4</li>
      <li>Source code now resides on Gitorious</li>

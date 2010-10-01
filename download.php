@@ -7,14 +7,10 @@
 
 <?php echoRelatedTop("Key New Features"); ?>
     <ul>
-     <li>Reduced loading time for first "Filter all Baskets"</li>
-     <li>Instantaneous "Filter as you Type"</li>
-     <li>Faster Text Edition</li>
-     <li>Enhanced Link Detection in Text Notes</li>
-     <li>Focus Baskets when Using Alt+Up and Alt+Down</li>
-     <li>Reviewed Japanese Translation</li>
+     <li>Ported to KDE 4</li>
+     <li>Ability to add cross references between Baskets</li>
+     <li>Import your data from Jreepad</li>
     </ul>
-    <p><a href="changes-1.0<? /*echo $current*/ ?>.php" class="buttonBar" style="width: 16em;"><span>Full List of Changes &nbsp;►</span></a></p>
 <?php echoRelatedBottom(); ?>
 
 <?php echoH2(); ?>
@@ -26,31 +22,8 @@
     </ul>
 
     <ul class="downloads">
-<!--      <li><a href="downloads/?file=basket-0.6.0-suse"><? loadIcon16("suse") ?> <span>Packages for SuSE</span></a></li>
-      <li><a href="downloads/?file=basket-0.6.0-mandriva"><? loadIcon16("mandriva") ?> <span>Package for Mandriva 2007</span></a></li>
-      <li><a href="downloads/?file=basket-0.6.0-fedora6-pc"><? loadIcon16("fedora") ?> <span>Package for Fedora Core 6 for PC</span></a>< ! - - (you also can type &quot;<code>yum install basket</code>&quot; in a console as root)- - ></li>
-      <li><a href="downloads/?file=basket-0.6.0-fedora6-pc64"><? loadIcon16("fedora") ?> <span>Package for Fedora Core 6 for 64 bits PC</span></a></li>
-      <li><a href="downloads/?file=basket-0.6.0-fedora6-ppc"><? loadIcon16("fedora") ?> <span>Package for Fedora Core 6 for Power PC</span></a></li>
--->
-<!--      <li><a href="downloads/?file=basket-1.0-kubuntu"><? loadIcon16("kubuntu") ?> <span>Package for KUbuntu</span></a></li>-->
-    <!--  <li><a href="downloads/?file=basket-1.0-freebsd"><? loadIcon16("freebsd") ?> <span>Port for FreeBSD</span></a></li>-->
-<!--
-      <li><a href="downloads/?file=basket-0.6.0-kubuntu-dapper"><? loadIcon16("kubuntu") ?> <span>Package for KUbuntu Dapper</span></a></li>
-      <li><? loadIcon16("archlinux") ?> Arch Linux users simply have to type the command "<code>pacman -S basket</code>" in a console as root</li>
-      <li><a href="downloads/?file=basket-0.6.0-slackware"><? loadIcon16("slackware") ?> <span>Package for Slackware</span></a></li>
-      <li><a href="downloads/?file=basket-0.6.0-gentoo"><? loadIcon16("gentoo") ?> <span>Ebuild for Gentoo</span></a></li>
--->
-    <!--  <li><a href="downloads/?file=basket-1.0-debian"><? loadIcon16("debian") ?> <span>Package for Debian</span></a></li>-->
-<!--
-      <li><? loadIcon16("gentoo") ?> Gentoo Linux users simply have to type the command "<code>emerge - - sync &amp;&amp; emerge basket</code>" in a console as root</li>
-      <li><a href=".package"><? loadIcon16("autopackage") ?> <span>Autopackage for Linux</span></a> (learn <em><a href="http://www.autopackage.org/">What is autopackage...</a></em>)</li>
--->
-    </ul>
-
-    <ul class="downloads">
       <li><a href="http://kde-apps.org/content/show.php?content=10020"><? loadIcon16("kde-apps") ?> <span>BasKet Note Pads on KDE-Apps.org</span></a> (you can <em>post comments about the application</em>)</li>
       <li><a href="http://freshmeat.net/projects/basket/"><? loadIcon16("freshmeat") ?> <span>BasKet Note Pads on Freshmeat</span></a> (you can <em>subscribe to be sent a notice when a new version is released</em>)</li>
-      <!-- <li>CVS in KDE ExtraGear (updated each week-end: musn't be too broken, but can have bugs);</li> -->
     </ul>
 
     <ul class="downloads">
@@ -63,18 +36,6 @@
 ?>
       <li><a href="svnaccess.php"><? loadIcon16("svn") ?> <span>SVN Repository Access</span></a> (<em>very latest development version with even more bugs</em>)</li>
     </ul>
-
-    <h3>Display Baskets on the Desktop</h3>
-    <p class="screenshotImage" style="float: left;"><img src="screenshots/desktop-basket-1.3.1.png" width="410" height="324" alt="DesktopBasket Super Karamba Theme" class="cropped"></p>
-
-    <p>Here is a SuperKaramba theme that lets you display a few choosen notes on the desktop.<br>
-    Just assign the tag "Desktop" to a note and it will appear on your desktop.</p>
-
-    <div id="downloadButton" style="margin-left: 430px">
-      <a href="downloads/?file=desktop-basket" id="theButton"><strong>Download Now<br></strong>
-      Version <em>1.3.1</em><br>
-      SuperKaramba theme (50 Kb)</a>
-    </div>
 
     <h3>Getting Things Done with Basket Note Pads</h3>
 
