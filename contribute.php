@@ -16,11 +16,24 @@
         <a href="mailinglist.php">Development Mailing List</a>
       </dt>
         <dd>
-          <p>Development decisions are took between developers by emails on that list;</p>
-          <p>We are several developers working on BasKet Note Pads. Development decisions are discussed and approved between all of us by emails on that list.</p>
-          <p>If you are a developer wanting to join us, you can <a href="https://lists.sourceforge.net/lists/listinfo/basket-devel">subscribe to the list</a>.</p>
-          <p>You can <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=basket-devel">view the archives</a> if you are interested in what's discussed there.</p>
-          <p>And to contact us, <a href="mailto:basket-devel@lists.sourceforge.net">send an email to the list</a>.</p>
+          <p>
+            Development discussions take place in public.
+            If you are interested in following or contributing to those discussions this is the place to be.
+            Discussions generally revolve around things like
+          </p>
+          <ul>
+            <li>User support</li>
+            <li>Possible new features</li>
+            <li>Finding and fixing bugs</li>
+            <li>Release planing</li>
+            <li>And general management</li>
+          </ul>
+          <p>
+            To get a look at past topics you can <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=basket-devel">browse the archives</a>.
+          </p>
+          <p>
+            To join the discussions all you have to do is to <a href="https://lists.sourceforge.net/lists/listinfo/basket-devel">subscribe to the mailing list</a> to be able to <a href="mailto:basket-devel@lists.sourceforge.net">send emails there</a>.
+          </p>
         </dd>
       <dt><a href="wiki/doku.php?id=start">Developer Wiki</a> (Out of Date)</dt>
         <dd>The common dashboard where we put our ideas and didcuss what will be done for the next releases;</dd>
