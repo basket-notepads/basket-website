@@ -11,8 +11,17 @@
         <dd><b>This page is now out of date until the KDE 4 port is finished.</b>  If BasKet Note Pads is not yet translated to your native language, you can help to make this happens. This page explains how to do;</dd>
       <dt><a href="svnaccess.php">Git Source Code Repository</a></dt>
         <dd>You want to always be up to date, or you want to participate in the development effort? This is the page you're searching for;</dd>
-      <dt><a href="mailinglist.php">Development Mailing List</a></dt>
-        <dd>Development decisions are took between developers by emails on that list;</dd>
+      <dt>
+        <img  src="icos/32-mailinglist.png" alt="" width="32" height="32" />
+        <a href="mailinglist.php">Development Mailing List</a>
+      </dt>
+        <dd>
+          <p>Development decisions are took between developers by emails on that list;</p>
+          <p>We are several developers working on BasKet Note Pads. Development decisions are discussed and approved between all of us by emails on that list.</p>
+          <p>If you are a developer wanting to join us, you can <a href="https://lists.sourceforge.net/lists/listinfo/basket-devel">subscribe to the list</a>.</p>
+          <p>You can <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=basket-devel">view the archives</a> if you are interested in what's discussed there.</p>
+          <p>And to contact us, <a href="mailto:basket-devel@lists.sourceforge.net">send an email to the list</a>.</p>
+        </dd>
       <dt><a href="wiki/doku.php?id=start">Developer Wiki</a> (Out of Date)</dt>
         <dd>The common dashboard where we put our ideas and didcuss what will be done for the next releases;</dd>
       <dt>IRC Channel</dt>
