@@ -35,8 +35,6 @@
             To join the discussions all you have to do is to <a href="https://lists.sourceforge.net/lists/listinfo/basket-devel">subscribe to the mailing list</a> to be able to <a href="mailto:basket-devel@lists.sourceforge.net">send emails there</a>.
           </p>
         </dd>
-      <dt><a href="wiki/doku.php?id=start">Developer Wiki</a> (Out of Date)</dt>
-        <dd>The common dashboard where we put our ideas and didcuss what will be done for the next releases;</dd>
       <dt>IRC Channel</dt>
         <dd>Meet the developers on the channel #basket-devel of the server irc.freenode.net;</dd>
     </dl>
