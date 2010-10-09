@@ -108,7 +108,6 @@
     echo "      <li><a href=\"development.php\" accesskey=\"v\">Development</a></li>\n";
 ?>
       <li><a href="roadmap.php"     accesskey="r">Roadmap</a></li>
-      <li><a href="http://bugs.kde.org"  accesskey="b">Bugs</a></li>
       <li><a href="contribute.php"  accesskey="o">Contribute</a></li>
       <li class="last"><a href="contact.php" accesskey="c">Contact</a></li>
      </ul>

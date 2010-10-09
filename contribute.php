@@ -40,6 +40,20 @@
     To join the discussions all you have to do is to <a href="https://lists.sourceforge.net/lists/listinfo/basket-devel">subscribe to the mailing list</a> to be able to <a href="mailto:basket-devel@lists.sourceforge.net">send emails</a> there.
   </p>
 
+<h3>Bugs</h3>
+  <h4>
+    <img  src="icons/bugs.png" alt="" width="32" height="32" />
+    Report Bugs
+  </h4>
+  <p>
+    You can help us by making us aware of bugs in BasKet Note Pads, giving instructions how to reproduce them or even fixing them.
+  </p>
+  <p>
+    You can do so by talking to us on IRC, on the Mailing List, <a href="https://bugs.kde.org/" title="KDE Bugzilla">submitting bug reports, commenting and voting on them</a> as well as helping us hunt down <a href="https://bugs.kde.org/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=basket&long_desc_type=substring&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=NEEDSINFO&bug_status=VERIFIED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Importance&field0-0-0=noop&type0-0-0=noop&value0-0-0=" title="BasKet Note Pads open bug list">already reported bugs</a>.
+  </p>
+  <p>
+    
+  </p>
 
 <h3>Code</h3>
   <?php echoRelatedTop("Related Links"); ?>
