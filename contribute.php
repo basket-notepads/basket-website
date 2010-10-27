@@ -91,8 +91,8 @@
   </ul>
   <?php echoRelatedBottom(); ?>
   <h4>
-    <img  src="icons/repository.png" alt="" width="32" height="32" />
-    Git Source Code Repository
+    <img  src="icons/code.png" alt="" width="32" height="32" />
+    Get The Source Code
   </h4>
   <p>You want to always be up to date, or you want to participate in the development effort?<br>
   This is the page you're searching for.<br>
