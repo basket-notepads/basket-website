@@ -12,7 +12,18 @@
   Just contact us and we will be happy to include your contribution to BasKet Note Pads.
 </p>
 
-<h3>Questions</h3>
+<h3>Questions, Praise, Comments</h3>
+  <h4>
+    <img  src="icons/mail-to-maintainer.png" alt="" width="32" height="32" />
+    Mail The Maintainer
+  </h4>
+  <p>
+    For quick help or immediate contanct you can write a mail to the maintainer.
+  </p>
+  <p>
+    BasKet is currently maintained by <a href="mailto:kelvie@ieee.org">Kelvie Wong</a>.
+  </p>
+
   <h4>
     <img  src="icons/irc.png" alt="" width="32" height="32" />
     Join our IRC Channel
