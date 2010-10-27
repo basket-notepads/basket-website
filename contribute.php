@@ -6,6 +6,12 @@
 ?>
 <?php echoH2(); ?>
 
+<p>
+  You don't need to be a programmer to help make BasKet Note Pads a great application.<br>
+  We are searching for translators, packagers, artists, and bug reporters.
+  Just contact us and we will be happy to include your contribution to BasKet Note Pads.
+</p>
+
 <h3>Questions</h3>
   <h4>
     <img  src="icons/irc.png" alt="" width="32" height="32" />
