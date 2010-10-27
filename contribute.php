@@ -26,10 +26,11 @@
 
   <h4>
     <img  src="icons/irc.png" alt="" width="32" height="32" />
-    Join our IRC Channel
+    Join us in IRC
   </h4>
   <p>
-    For quick help or immediate contanct you can meet the developers on the #basket-devel channel of the irc.freenode.net server.
+    For fast help or a quick chat you can meet the developers on the #basket-devel channel on the irc.freenode.net server.
+  </p>
   </p>
 
 
