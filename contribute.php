@@ -31,6 +31,17 @@
   <p>
     For fast help or a quick chat you can meet the developers on the #basket-devel channel on the irc.freenode.net server.
   </p>
+
+  <h4>
+    <img  src="icons/kde-apps.org.png" alt="" width="32" height="32" />
+    Visit us on <a href="http://kde-apps.org">KDE-Apps.org</a>
+  </h4>
+  <p>
+    KDE-Apps.org is a directory for KDE applications so naturally you can <a href="http://kde-apps.org/content/show.php?content=10020" title="BasKet Note Pads on KDE-Apps.org">find BasKet Note Pads there</a>.
+  </p>
+  <p>
+    There you can get in contanct with other BasKet users and comment on the application itself.
+    You can also vote BasKet (up or down), so please vote and let us and other users know how you feel.
   </p>
 
 
