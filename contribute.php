@@ -82,42 +82,38 @@
   </p>
 
 <h3>Code</h3>
-  <?php echoRelatedTop("Related Links"); ?>
-  <ul class="more">
-    <li><a href="development.php">Unstable Development Version...</a></li>
-    <li><a href="roadmap.php">Roadmap...</a></li>
-    <li><a href="rss.php">Stay tuned: use the RSS Feed...</a></li>
-    <li><a href="contact.php">Contact Developer...</a></li>
-  </ul>
-  <?php echoRelatedBottom(); ?>
   <h4>
     <img  src="icons/code.png" alt="" width="32" height="32" />
     Get The Source Code
   </h4>
-  <p>You want to always be up to date, or you want to participate in the development effort?<br>
-  This is the page you're searching for.<br>
-  Here are instructions to download and install the latest development version of this application.<br>
-  The version you will download is the latest code produced one week or one hour earlier!<br>
-  We're trying to keep that code compilable and usable, but remember it's not a public release, so sometimes it can be hardly usable for daily needs. In those cases, retry some days later...</p>
   <p>
-  Currently BasKet has two repositories, active git repository where porting to KDE4 is being done and the old svn repository. If you want to help out, help with the porting effort is much appreciated!</p>
-
-  <h5>Instructions to Get the Latest Development Code for KDE</h5>
-  <p>Open a console, and type the following command to get copy of the git repository:</p>
-  <p>
-  <code style="font-family:monospace,Courier New">git clone git://github.com/kelvie/basket.git</code>
+    You can find our code repository on <a href="http://gitorious.org">Gitorious</a>:
   </p>
-  <p>You can also browse the repository with a web browser at <a href="http://github.com/kelvie/basket/tree/master">http://github.com/kelvie/basket/tree/master</a></p>
-  <p>Please read the README in the repository for further instructions.</p>
-  <p>To contribute, please send patches to the <a href="mailinglist.php">mailing list</a></p>
+  <p>
+    <a href="http://gitorious.org/basket">http://gitorious.org/basket</a>
+  </p>
+  <p>
+    The repository contains the project's most recent code and probably some features in development.
+    So we recomend you to backup your data before doing any testing or development.<br />
+    We're trying to keep the code compilable and usable, but remember: it's not a public release, so sometimes it can be hardly usable for daily needs.
+    In those cases, get in contanct with the developers or retry a few days later.
+  </p>
+  <p>
+    You can find instructions to download or clone the repository on <a href="http://gitorious.org/basket">Basket project page on Gitorious</a>.
+    The <a href="http://gitorious.org/basket/basket/blobs/master/README">README file</a> in the repository contains detailed instructions on how to build Basket and on how you can have your changes integrated into the main repository.
+  </p>
 
-  <h5>Note on the old SVN tree</h5>
-  <p>The old SVN tree has been completely imported into the Git repository
-      above (including the branches), so those are still available.</p>
-  <p>The <a href="http://github.com/kelvie/basket/commits/maint">maint</a>
-    branch is where the KDE3 code is still being kept (and is code frozen,
-    minus bug fixes).</p>
+  <h5>Basket for KDE3</h5>
+  <p>
+    The old KDE3 code has been completely imported into the Git repository above (including the branches), so those are still available.
+  </p>
+  <p>
+    The <a href="http://github.com/kelvie/basket/commits/maint">maint</a>
+    branch is where the KDE3 code is still being kept.
+    It is frozen and no work will be done on it except for critical bug fixes.
+  </p>
 
+  <!--
   <h4>Additional components</h4>
   <p>For this application, we had to create new components that could also be usefull to other KDE applications. Here they are:</p>
   <dl>
@@ -126,6 +122,7 @@
     <dt><a href="likeback.php">LikeBack - Quick Feedback from Beta-Testers</a></dt>
       <dd>A simple system to lower down the barriers between the users and the developers.</dd>
   </dl>
+  -->
 
   <h4>
     <img  src="icons/documentation.png" alt="" width="32" height="32" />
