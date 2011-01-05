@@ -16,7 +16,7 @@
     For quick help or immediate contanct you can write a mail to the maintainer.
   </p>
   <p>
-    BasKet is currently maintained by <a href="mailto:kelvie@ieee.org">Kelvie Wong</a>.
+    Basket is currently maintained by <a href="mailto:kelvie@ieee.org">Kelvie Wong</a>.
   </p>
 
   <h4>
@@ -29,14 +29,14 @@
 
   <h4>
     <img  src="icons/kde-apps.org.png" alt="" width="32" height="32" />
-    Visit us on <a href="http://kde-apps.org">KDE-Apps.org</a>
+    Visit us on KDE-Apps.org
   </h4>
   <p>
-    KDE-Apps.org is a directory for KDE applications so naturally you can <a href="http://kde-apps.org/content/show.php?content=10020" title="BasKet Note Pads on KDE-Apps.org">find BasKet Note Pads there</a>.
+    <a href="http://kde-apps.org">KDE-Apps.org</a> is a directory for KDE applications, so naturally you can <a href="http://kde-apps.org/content/show.php?content=10020" title="Basket Note Pads on KDE-Apps.org">find Basket Note Pads there</a>.
   </p>
   <p>
-    There you can get in contanct with other BasKet users and comment on the application itself.
-    You can also vote BasKet (up or down), so please vote and let us and other users know how you feel.
+    There you can get in contanct with other Basket users and comment on the application itself.
+    You can also vote Basket (up or down), so please vote and let us and other users know how you feel.
   </p>
 
 
