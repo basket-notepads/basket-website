@@ -7,9 +7,9 @@
 <?php echoH2(); ?>
 
 <p>
-  You don't need to be a programmer to help make BasKet Note Pads a great application.<br>
+  You don't need to be a programmer to help make Basket Note Pads a great application.<br>
   We are searching for translators, packagers, artists, and bug reporters.
-  Just contact us and we will be happy to include your contribution to BasKet Note Pads.
+  Just contact us and we will be happy to include your contribution to Basket Note Pads.
 </p>
 
 <h3>Questions, Praise, Comments</h3>
@@ -21,7 +21,7 @@
     For quick help or immediate contanct you can write a mail to the maintainer.
   </p>
   <p>
-    BasKet is currently maintained by <a href="mailto:kelvie@ieee.org">Kelvie Wong</a>.
+    Basket is currently maintained by <a href="mailto:kelvie@ieee.org">Kelvie Wong</a>.
   </p>
 
   <h4>
@@ -34,14 +34,14 @@
 
   <h4>
     <img  src="icons/kde-apps.org.png" alt="" width="32" height="32" />
-    Visit us on <a href="http://kde-apps.org">KDE-Apps.org</a>
+    Visit us on KDE-Apps.org
   </h4>
   <p>
-    KDE-Apps.org is a directory for KDE applications so naturally you can <a href="http://kde-apps.org/content/show.php?content=10020" title="BasKet Note Pads on KDE-Apps.org">find BasKet Note Pads there</a>.
+    <a href="http://kde-apps.org">KDE-Apps.org</a> is a directory for KDE applications, so naturally you can <a href="http://kde-apps.org/content/show.php?content=10020" title="Basket Note Pads on KDE-Apps.org">find Basket Note Pads there</a>.
   </p>
   <p>
-    There you can get in contanct with other BasKet users and comment on the application itself.
-    You can also vote BasKet (up or down), so please vote and let us and other users know how you feel.
+    There you can get in contanct with other Basket users and comment on the application itself.
+    You can also vote Basket (up or down), so please vote and let us and other users know how you feel.
   </p>
 
 
@@ -75,10 +75,10 @@
     Report Bugs
   </h4>
   <p>
-    You can help us by making us aware of bugs in BasKet Note Pads, giving instructions how to reproduce them or even fixing them.
+    You can help us by making us aware of bugs in Basket Note Pads, giving instructions how to reproduce them or even fixing them.
   </p>
   <p>
-    You can do so by talking to us on IRC, on the Mailing List, <a href="https://bugs.kde.org/" title="KDE Bugzilla">submitting bug reports, commenting and voting on them</a> as well as helping us hunt down <a href="https://bugs.kde.org/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=basket&long_desc_type=substring&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=NEEDSINFO&bug_status=VERIFIED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Importance&field0-0-0=noop&type0-0-0=noop&value0-0-0=" title="BasKet Note Pads open bug list">already reported bugs</a>.
+    You can do so by talking to us on IRC, on the Mailing List, <a href="https://bugs.kde.org/" title="KDE Bugzilla">submitting bug reports, commenting and voting on them</a> as well as helping us hunt down <a href="https://bugs.kde.org/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=basket&long_desc_type=substring&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=NEEDSINFO&bug_status=VERIFIED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Importance&field0-0-0=noop&type0-0-0=noop&value0-0-0=" title="Basket Note Pads open bug list">already reported bugs</a>.
   </p>
 
 <h3>Code</h3>
@@ -137,13 +137,13 @@
 <h3>Translations</h3>
   <h4>
     <img  src="icons/translation.png" alt="" width="32" height="32" />
-    Help Translating BasKet to Your Language
+    Help Translating Basket to Your Language
   </h4>
   <p>
     <strong>The following information is outdated and will be updated once the KDE 4 port is finished.</strong>
   </p>
   <p>
-    If BasKet Note Pads is not yet translated to your native language, you can help to make this happen.
+    If Basket Note Pads is not yet translated to your native language, you can help to make this happen.
     You can follow the instructions on our <a href="translate.php">translation HOWTO</a> and send us a patch.
   </p>
 
