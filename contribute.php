@@ -108,7 +108,7 @@
     The old KDE3 code has been completely imported into the Git repository above (including the branches), so those are still available.
   </p>
   <p>
-    The <a href="http://github.com/kelvie/basket/commits/maint">maint</a>
+    The <a href="http://gitorious.org/basket/basket/commits/maint">maint</a>
     branch is where the KDE3 code is still being kept.
     It is frozen and no work will be done on it except for critical bug fixes.
   </p>
