@@ -18,7 +18,9 @@
     <p class="go_home">This application is <a href="http://www.fsf.org/">free software</a> and is distributed under the terms of the <a href="http://www.gnu.org/copyleft/gpl.html">GPL licence</a>: you can <strong>download, use, modify and share it freely</strong>.</p>
 
     <ul class="downloads">
-      <li><strong><a href="downloads/?file=basket-<? echo $current ?>"><? loadIcon16("tgz") ?> <span>Official sources of BasKet Note Pads</span></a></strong> (see <em><a href="install.php" class="linkAnyway">How to install...</a></em>)</li>
+      <li><strong><span>Official sources of BasKet Note Pads</span></strong> (see <em><a href="install.php" class="linkAnyway">How to install...</a></em>)<br>
+      <a href="<? echo $current_github ?>"><? loadIcon16("tgz") ?> Mirror 1</a>, <a href="<? echo $current_launchpad ?>"><? loadIcon16("tgz") ?> Mirror 2</a>
+      </li>
     </ul>
 
     <ul class="downloads">
@@ -34,7 +36,7 @@
 <?php
   }
 ?>
-      <li><a href="svnaccess.php"><? loadIcon16("svn") ?> <span>SVN Repository Access</span></a> (<em>very latest development version with even more bugs</em>)</li>
+      <li><a href="https://github.com/basket-notepads/basket/archive/master.zip"><? loadIcon16("svn") ?> <span>Git Repository Access</span></a> (<em>very latest development version with even more bugs</em>)</li>
     </ul>
 
     <h3>Getting Things Done with Basket Note Pads</h3>
@@ -51,11 +53,11 @@
       <p>Tip: The top-level basket "GTD" is to be used as an inbox for this method. You can assign a global keyboard-shortcut to it by displaying the basket properties window. Then, whenever you get an idea, you can press this global shortcut, press the Insert. key to add a new entry, type your idea, and close with BasKet Note Pads to return to what you were doing right before. Easy and very fast.</p>
 
       <div id="downloadButton">
-        <a href="downloads/?file=GTD.baskets" id="theButton"><strong>Download Now<br></strong>
+        <a href="downloads/GTD.baskets" id="theButton"><strong>Download Now<br></strong>
         Basket Archive<br>(300 Kb)</a>
       </div>
       <div id="downloadButton">
-        <a href="downloads/?file=GTD_german.baskets" id="theButton"><strong>Download Now<br></strong>
+        <a href="downloads/GTD_german.baskets" id="theButton"><strong>Download Now<br></strong>
         Basket Archive<br>(German version - 300 Kb)</a>
       </div>
     </div>

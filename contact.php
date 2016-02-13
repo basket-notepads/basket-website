@@ -9,14 +9,21 @@
 <?php /* from contribute.php */ ?>
 <h3>Questions, Praise, Comments</h3>
   <h4>
+    <img  src="icons/launchpad.png" alt="" width="32" height="32" />
+    Questions on Launchpad
+  </h4>
+  <p>
+    <a href="https://answers.launchpad.net/basket">answers.launchpad.net/basket</a>
+  </p>
+  <h4>
     <img  src="icons/mail-to-maintainer.png" alt="" width="32" height="32" />
     Mail The Maintainer
   </h4>
   <p>
-    For quick help or immediate contanct you can write a mail to the maintainer.
+    For quick help or immediate contact you can write a mail to the maintainer.
   </p>
   <p>
-    Basket is currently maintained by <a href="mailto:kelvie@ieee.org">Kelvie Wong</a>.
+    Basket is currently maintained by <? emailLink("Gleb Baryshev"); ?>.
   </p>
 
   <h4>

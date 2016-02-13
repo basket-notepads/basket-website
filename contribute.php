@@ -14,14 +14,21 @@
 
 <h3>Questions, Praise, Comments</h3>
   <h4>
+    <img  src="icons/launchpad.png" alt="" width="32" height="32" />
+    Questions on Launchpad
+  </h4>
+  <p>
+    <a href="https://answers.launchpad.net/basket">answers.launchpad.net/basket</a>
+  </p>
+  <h4>
     <img  src="icons/mail-to-maintainer.png" alt="" width="32" height="32" />
     Mail The Maintainer
   </h4>
   <p>
-    For quick help or immediate contanct you can write a mail to the maintainer.
+    For quick help or immediate contact you can write a mail to the maintainer.
   </p>
   <p>
-    Basket is currently maintained by <a href="mailto:kelvie@ieee.org">Kelvie Wong</a>.
+    Basket is currently maintained by <? emailLink("Gleb Baryshev"); ?>.
   </p>
 
   <h4>
@@ -78,7 +85,7 @@
     You can help us by making us aware of bugs in Basket Note Pads, giving instructions how to reproduce them or even fixing them.
   </p>
   <p>
-    You can do so by talking to us on IRC, on the Mailing List, <a href="https://bugs.kde.org/" title="KDE Bugzilla">submitting bug reports, commenting and voting on them</a> as well as helping us hunt down <a href="https://bugs.kde.org/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=basket&long_desc_type=substring&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=NEEDSINFO&bug_status=VERIFIED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Importance&field0-0-0=noop&type0-0-0=noop&value0-0-0=" title="Basket Note Pads open bug list">already reported bugs</a>.
+    You can do so by talking to us on IRC, on the Mailing List, <a href="https://bugs.launchpad.net/basket" title="Launchpad bugtracker">submitting bug reports, commenting and voting on them</a> as well as helping us hunt down <a href="https://bugs.launchpad.net/basket/+bugs?field.status%3Alist=NEW&field.status%3Alist=CONFIRMED&field.status%3Alist=TRIAGED&field.status%3Alist=INPROGRESS&field.status%3Alist=FIXCOMMITTED&field.status%3Alist=INCOMPLETE_WITH_RESPONSE&field.status%3Alist=INCOMPLETE_WITHOUT_RESPONSE" title="Basket Note Pads open bug list">already reported bugs</a>.
   </p>
 
 <h3>Code</h3>
@@ -87,10 +94,10 @@
     Get The Source Code
   </h4>
   <p>
-    You can find our code repository on <a href="http://gitorious.org">Gitorious</a>:
+    You can find our code repository on <a href="http://github.com">GitHub</a>:
   </p>
   <p>
-    <a href="http://gitorious.org/basket">http://gitorious.org/basket</a>
+    <a href="https://github.com/basket-notepads/basket">github.com/basket-notepads/basket</a>
   </p>
   <p>
     The repository contains the project's most recent code and probably some features in development.
@@ -99,8 +106,8 @@
     In those cases, get in contanct with the developers or retry a few days later.
   </p>
   <p>
-    You can find instructions to download or clone the repository on <a href="http://gitorious.org/basket">Basket project page on Gitorious</a>.
-    The <a href="http://gitorious.org/basket/basket/blobs/master/README">README file</a> in the repository contains detailed instructions on how to build Basket and on how you can have your changes integrated into the main repository.
+    You can find instructions to download or clone the repository on <a href="https://github.com/basket-notepads/basket">Basket project page on GitHub</a>.
+    The <a href="https://github.com/basket-notepads/basket/blob/master/README.md">README file</a> in the repository contains detailed instructions on how to build Basket and on how you can have your changes integrated into the main repository.
   </p>
 
   <h5>Basket for KDE3</h5>
@@ -108,7 +115,7 @@
     The old KDE3 code has been completely imported into the Git repository above (including the branches), so those are still available.
   </p>
   <p>
-    The <a href="http://gitorious.org/basket/basket/commits/maint">maint</a>
+    The <a href="https://github.com/basket-notepads/basket/tree/maint">maint</a>
     branch is where the KDE3 code is still being kept.
     It is frozen and no work will be done on it except for critical bug fixes.
   </p>
@@ -129,7 +136,7 @@
     Developer Documentation
   </h4>
   <p>
-    There is no explicit developer documentation available at the moment.
+    There is no explicit developer documentation available at the moment (except <a href="https://github.com/basket-notepads/basket/wiki">wiki on GitHub</a>).
     If you need help please turn to the developers via IRC or on the mailing list.
   </p>
 

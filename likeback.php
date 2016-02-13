@@ -111,7 +111,7 @@
 
     <p>Since it's not integrated to KDE yet, you have to download it and import it into your project. You then need to instanciate it into your application. Then, you should install it on your server.</p>
 
-    <p><a href="downloads/?file=likeback-0.4.tar.gz"><? loadIcon32("download") ?> Download LikeBack 0.4</a></p>
+    <p><a href="downloads/likeback-0.4.tar.gz"><? loadIcon32("download") ?> Download LikeBack 0.4</a></p>
 
     <p>Add the files in src/ of the downloaded archive to the source folder of your application. You need to modify the Makefile.am file of your src/ directory to include the new icons. I provided a Makefile.am.section file for you to copy the needed lines in yours. Basically, replace the line starting by "kde_icon_KDEICON" with the one I provided, by taking care of replacing "YOURAPP" with the UNIX short-name of your application.</p>
 

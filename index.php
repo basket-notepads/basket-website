@@ -20,14 +20,19 @@
    </div>
 
    <div id="downloadButton" style="margin-right: 511px;"> <!-- The margin is the width of the image + margin of 20 pixels -->
-    <a href="downloads/?file=basket-<? echo $current ?>" id="theButton"><strong>Download Now<br></strong>
-    Version <em>2.0 Beta 2 (<?php echo $current; ?>)</em><br>
-    Sources for KDE (4.0 MB)</a>
+    <a href="<? echo $current_launchpad ?>" id="theButton"><strong>Download Now<br></strong>
+    Version <em>2.10 Beta (<?php echo $current; ?>)</em><br>
+    Sources for KDE (4.1 MB)</a>
     <div><a href="download.php" class="buttonBar" style="width: 28em;"><span>Download Distribution-Specific Packages &nbsp;<!--▼-->►</span></a></div>
 <?php
   if (isset($devel))
     echo "    <div><br><a href=\"development.php\" class=\"buttonBar\" style=\"width: 30em;\"><span>Unstable Development Version ($devel) &nbsp;<!--▼-->►</span></a></div>";
 ?>
+    <br><br>
+     <div style="background-color:#f9d34a; width: 195px; margin: 0 auto; " >
+      <img src="icons/launchpad.png" width="32" height="32" alt="" align="left">
+      <a href="https://launchpad.net/basket" ><strong>Basket on Launchpad<br></strong>
+    </div>
    </div>
 
    <div class="hr">&nbsp;</div>

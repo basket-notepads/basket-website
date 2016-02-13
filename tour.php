@@ -28,7 +28,7 @@
       <p>Tip: The top-level basket "GTD" is to be used as an inbox for this method. You can assign a global keyboard-shortcut to it by displaying the basket properties window. Then, whenever you get an idea, you can press this global shortcut, press the Insert. key to add a new entry, type your idea, and close with BasKet Note Pads to return to what you were doing right before. Easy and very fast.</p>
 
       <div id="downloadButton">
-        <a href="downloads/?file=GTD.baskets" id="theButton"><strong>Download Now<br></strong>
+        <a href="downloads/GTD.baskets" id="theButton"><strong>Download Now<br></strong>
         Basket Archive (300 Kb)</a>
       </div>
 
