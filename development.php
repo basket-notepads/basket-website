@@ -18,7 +18,8 @@
     <p>On this page, you will discover what is under development for the future of this application.<br>
     While the releases provided on this page are not officially supported, they are quite usable and relatively stable.</p>
 
-    <p>Since the release of the version <?php echo $current; ?>, no more development has been done. You will be informed as soon as there are changes.</p>
+    <!--<p>Since the release of the version <?php echo $current; ?>, no more development has been done. You will be informed as soon as there are changes.</p>-->
+    <p> <a href="<?php echo $devel_launchpad; ?>">Basket 2.49a for KF5</a> </p>
 
 
     <h3>New Developers Wanted</h3>

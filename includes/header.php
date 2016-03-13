@@ -2,9 +2,11 @@
   header("Content-Type: text/html; charset=utf-8");
 
   /// Global variables:
-  $email="kelvie@ieee.org";
-  $current="1.81";
-//  $devel="2.0Alpha1"; // To be commented when no development version is available
+  $current="2.10b";
+  $devel="2.49a"; // To be commented when no development version is available
+  $current_launchpad="https://launchpad.net/basket/kde4/2.10b/+download/basket-2.10-beta.tar.bz2";
+  $current_github="https://github.com/basket-notepads/basket/archive/v2.10b.tar.gz";
+  $devel_launchpad="https://launchpad.net/basket/kde5/2.49a/+download/basket-2.49-alpha.tar.bz2";
 
   /// Find page filename:
   // 'PHP_SELF'        /~seb/basket2/debug.php
@@ -73,9 +75,9 @@
   }
 
   /// Insert a link to mail the author
-  /// FIXME: echo $email is empty (should be local variable!)
   function emailLink($linkTitle) {
-    echo "<a href=\"mailto:kelvie@ieee.org\">$linkTitle</a>";
+    $email="kde.basket@gmx.com";
+    echo "<a href=\"mailto:$email\">$linkTitle</a>";
   }
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
@@ -87,7 +89,7 @@
   <meta name="copyright" content="&copy; 2003-2006 S&eacute;bastien Lao&ucirc;t.">
   <link rel="stylesheet" type="text/css" href="includes/style.css">
   <link rel="shortcut icon" type="image/png" href="icos/16-basket.png">
-  <link rel="alternate" type="application/rss+xml" title="BasKet Note Pads News" href="http://basket.kde.org/basket.rss">
+  <link rel="alternate" type="application/rss+xml" title="BasKet Note Pads News" href="http://basket-notepads.github.io/basket.rss">
   <meta name="verify-v1" content="JOY6B+WuxHbxJ9qDCOBdSY9EqLrABU6mWwoJQnk9aTo=">
  </head>
  <body>
@@ -95,7 +97,7 @@
    <div id="subHeader">
     <p>Taking care of<br>
       your ideas.</p>
-    <h1><a href="http://basket.kde.org/"><img src="icos/64-basket.png" alt="" width="64" height="64"><img src="images/basket-note-pads.png" width="347" height="41" alt="BasKet Note Pads"></a><br></h1>
+    <h1><a href="http://basket-notepads.github.io/"><img src="icos/64-basket.png" alt="" width="64" height="64"><img src="images/basket-note-pads.png" width="347" height="41" alt="BasKet Note Pads"></a><br></h1>
     <div class="bar">
      <ul>
       <li><a href="index.php"       accesskey="h">Home</a></li>
