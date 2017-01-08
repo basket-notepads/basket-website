@@ -2,10 +2,10 @@
   header("Content-Type: text/html; charset=utf-8");
 
   /// Global variables:
-  $current="2.10b";
+  $current="2.11b";
   $devel="2.49a"; // To be commented when no development version is available
-  $current_launchpad="https://launchpad.net/basket/kde4/2.10b/+download/basket-2.10-beta.tar.bz2";
-  $current_github="https://github.com/basket-notepads/basket/archive/v2.10b.tar.gz";
+  $current_launchpad="https://launchpad.net/basket/kde4/2.11b/+download/basket-2.11-beta.tar.bz2";
+  $current_github="https://github.com/basket-notepads/basket/archive/v2.11b.tar.gz";
   $devel_launchpad="https://launchpad.net/basket/kde5/2.49a/+download/basket-2.49-alpha.tar.bz2";
 
   /// Find page filename:

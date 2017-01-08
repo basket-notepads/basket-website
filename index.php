@@ -21,8 +21,8 @@
 
    <div id="downloadButton" style="margin-right: 511px;"> <!-- The margin is the width of the image + margin of 20 pixels -->
     <a href="<? echo $current_launchpad ?>" id="theButton"><strong>Download Now<br></strong>
-    Version <em>2.10 Beta (<?php echo $current; ?>)</em><br>
-    Sources for KDE (4.1 MB)</a>
+    Version <em>2.11 Beta (<?php echo $current; ?>)</em><br>
+    Sources for KDE (3.6 MB)</a>
     <div><a href="download.php" class="buttonBar" style="width: 28em;"><span>Download Distribution-Specific Packages &nbsp;<!--▼-->►</span></a></div>
 <?php
   if (isset($devel))
